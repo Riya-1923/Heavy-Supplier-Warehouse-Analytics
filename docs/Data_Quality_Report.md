@@ -1,18 +1,26 @@
-# Week 1 Conclusions
+# Data Quality Report
 
-## Key Findings
+## Checks Performed
 
-- Successfully loaded all 12 datasets.
-- Largest dataset: Stock Ledger.
-- Smallest dataset: Branches.
-- Dataset contains sales, purchases, suppliers, customers, inventory, and warehouse information.
-- Initial missing value and duplicate checks completed.
-- Dataset is ready for cleaning and feature engineering in Week 2.
+- Missing Values
+- Duplicate Records
+- Data Types
+- Descriptive Statistics
+- Unique Values
+- Dataset Size
+- Memory Usage
 
-## Next Sprint
+## Observations
 
-- Data Cleaning
+- Successfully loaded all datasets.
+- Missing values identified for further cleaning.
+- Duplicate records identified where applicable.
+- Dataset structure understood.
+- Ready for data cleaning in Week 2.
+
+## Next Actions
+
 - Handle missing values
-- Merge datasets
-- Create new features
-- Build analysis-ready tables
+- Remove duplicates
+- Standardize formats
+- Validate relationships

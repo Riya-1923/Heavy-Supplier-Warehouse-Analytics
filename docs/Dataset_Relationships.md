@@ -1,27 +1,25 @@
 # Dataset Relationships
 
-The dataset consists of 12 tables representing different aspects of the warehouse and supply chain.
-
+Suppliers
+│
+├── Purchase Orders Header
+│      │
+│      └── Purchase Orders Lines
+│
 Products
-    │
-Inventory Master
-    │
-Stock Ledger
-
-Customers
-    │
+│
+├── Inventory Master
+│
+├── Stock Ledger
+│
+└── Sales Orders Lines
+        │
 Sales Orders Header
-    │
-Sales Orders Lines
-    │
+        │
+Customers
+        │
 Invoices
-    │
+        │
 Payments
 
-Suppliers
-    │
-Purchase Orders Header
-    │
-Purchase Orders Lines
-
-Branches are linked with inventory, sales, and purchase transactions.
+Branches are associated with inventory, purchases, and sales.

@@ -1,4 +1,5 @@
 Dataset	                        Description
+-----------------------------------------------------------------------
 branches.csv	                Contains branch/warehouse information.
 customers.csv	                Customer master data.
 products.csv	                Product catalog.
