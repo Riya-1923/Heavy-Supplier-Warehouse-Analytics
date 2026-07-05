@@ -37,8 +37,11 @@ The project consists of 12 CSV datasets:
 - suppliers
 
 ## Repository Structure
-
-data/
-docs/
-notebooks/
-sprint-notes/
+```text
+Heavy-Supplier-Warehouse-Analytics/
+│
+├── data/
+├── docs/
+├── notebooks/
+└── sprint-notes/
+```

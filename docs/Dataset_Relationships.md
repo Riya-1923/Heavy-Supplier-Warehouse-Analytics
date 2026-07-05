@@ -1,5 +1,5 @@
 # Dataset Relationships
-
+```text
 Suppliers
 │
 ├── Purchase Orders Header
@@ -23,3 +23,4 @@ Invoices
 Payments
 
 Branches are associated with inventory, purchases, and sales.
+```

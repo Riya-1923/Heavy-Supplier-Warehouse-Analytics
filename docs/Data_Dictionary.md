@@ -1,3 +1,4 @@
+```text
 Dataset	                        Description
 -----------------------------------------------------------------------
 branches.csv	                Contains branch/warehouse information.
@@ -12,3 +13,4 @@ purchase_orders_lines.csv	    Products purchased from suppliers.
 suppliers.csv	                Supplier information.
 invoices.csv	                Invoice records.
 payments.csv	                Payment transactions.
+```
