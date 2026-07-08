@@ -10,38 +10,77 @@ The objective is to analyze warehouse, inventory, supplier, customer, and sales 
 
 - BI Analyst
 
-## Week 1 Objectives
+## Progress
+
+### ✅ Week 1 – Data Exploration
 
 - Repository setup
 - Data loading
 - Dataset profiling
 - Data quality assessment
-- Initial exploratory analysis
-- Business questions and KPIs
+- Exploratory Data Analysis (EDA)
+- Business questions
+- KPI identification
+
+### ✅ Week 2 – Data Cleaning & Preparation
+
+- Standardized column names
+- Removed duplicate records
+- Handled missing values
+- Cleaned text fields
+- Converted date columns
+- Data quality validation
+- Saved cleaned datasets
+
 
 ## Dataset
 
 The project consists of 12 CSV datasets:
 
-- branches
-- customers
-- inventory_master
-- invoices
-- payments
-- products
-- purchase_orders_header
-- purchase_orders_lines
-- sales_orders_header
-- sales_orders_lines
-- stock_ledger
-- suppliers
+- branches.csv
+- customers.csv
+- inventory_master.csv
+- invoices.csv
+- payments.csv
+- products.csv
+- purchase_orders_header.csv
+- purchase_orders_lines.csv
+- sales_orders_header.csv
+- sales_orders_lines.csv
+- stock_ledger.csv
+- suppliers.csv
 
 ## Repository Structure
 ```text
 Heavy-Supplier-Warehouse-Analytics/
 │
 ├── data/
-├── docs/
+│   ├── raw/
+│   └── cleaned/
+│
 ├── notebooks/
-└── sprint-notes/
+│   ├── Week1_Data_Exploration.ipynb
+│   └── Week2_Data_Cleaning.ipynb
+│
+├── docs/
+│   ├── Data_Dictionary.md
+│   ├── Data_Quality_Report.md
+│   ├── Dataset_Relationships.md
+│   └── Data_Cleaning_Report.md
+│
+├── sprint-notes/
+│   ├── Week1.md
+│   └── Week2.md
+│
+└── README.md
 ```
+
+## Tools & Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Git
+- GitHub
