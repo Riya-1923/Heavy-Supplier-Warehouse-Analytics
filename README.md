@@ -32,6 +32,16 @@ The objective is to analyze warehouse, inventory, supplier, customer, and sales 
 - Data quality validation
 - Saved cleaned datasets
 
+### ✅ Week 3 – Product & Inventory Analysis
+
+- Product summary
+- Inventory valuation
+- Category-wise inventory analysis
+- Fast-moving products
+- Slow-moving products
+- ABC (Pareto) classification
+- Inventory health assessment
+- Business recommendations
 
 ## Dataset
 
@@ -60,17 +70,20 @@ Heavy-Supplier-Warehouse-Analytics/
 │
 ├── notebooks/
 │   ├── Week1_Data_Exploration.ipynb
-│   └── Week2_Data_Cleaning.ipynb
+│   ├── Week2_Data_Cleaning.ipynb
+│   └── Week3_Product_Inventory_Analysis.ipynb
 │
 ├── docs/
 │   ├── Data_Dictionary.md
 │   ├── Data_Quality_Report.md
 │   ├── Dataset_Relationships.md
-│   └── Data_Cleaning_Report.md
+│   ├── Data_Cleaning_Report.md
+│   └── Product_Inventory_Report.md
 │
 ├── sprint-notes/
 │   ├── Week1.md
-│   └── Week2.md
+│   ├── Week2.md
+│   └── Week3.md
 │
 └── README.md
 ```
