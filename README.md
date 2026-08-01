@@ -54,6 +54,19 @@ The objective is to analyze warehouse, inventory, supplier, customer, and sales 
 - KPI dashboard
 - Business recommendations
 
+### ✅ Week 5 – Inventory Health & Turnover Analytics
+
+- Inventory value analysis
+- Inventory turnover calculation
+- Fast-moving product identification
+- Slow-moving product analysis
+- Dead stock detection
+- Inventory aging analysis
+- ABC (Pareto) classification
+- Reorder and safety stock analysis
+- KPI dashboard
+- Business recommendations
+
 ## Dataset
 
 The project consists of 12 CSV datasets:
@@ -83,7 +96,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week1_Data_Exploration.ipynb
 │   ├── Week2_Data_Cleaning.ipynb
 │   ├── Week3_Product_Inventory_Analysis.ipynb
-│   └── Week4_Warehouse_Analytics.ipynb
+│   ├── Week4_Warehouse_Analytics.ipynb
+│   └── Week5_Inventory_Health_Analytics.ipynb
 │
 ├── docs/
 │   ├── Data_Dictionary.md
@@ -91,13 +105,15 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Dataset_Relationships.md
 │   ├── Data_Cleaning_Report.md
 │   ├── Product_Inventory_Report.md
-│   └── Warehouse_Analytics_Report.md
+│   ├── Warehouse_Analytics_Report.md
+│   └── Inventory_Health_Report.md
 │
 ├── sprint-notes/
 │   ├── Week1.md
 │   ├── Week2.md
 │   ├── Week3.md
-│   └── Week4.md
+│   ├── Week4.md
+│   └── Week5.md
 │
 └── README.md
 ```
