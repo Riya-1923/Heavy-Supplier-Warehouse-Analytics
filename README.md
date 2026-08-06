@@ -67,6 +67,18 @@ The objective is to analyze warehouse, inventory, supplier, customer, and sales 
 - KPI dashboard
 - Business recommendations
 
+### ✅ Week 6 – Advanced Inventory Analytics
+
+- Inventory availability analysis
+- Stock status classification
+- Product criticality analysis
+- Category-wise inventory analysis
+- Branch performance scoring
+- Warehouse utilization analysis
+- Operational risk dashboard
+- KPI dashboard
+- Business recommendations
+
 ## Dataset
 
 The project consists of 12 CSV datasets:
@@ -97,7 +109,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week2_Data_Cleaning.ipynb
 │   ├── Week3_Product_Inventory_Analysis.ipynb
 │   ├── Week4_Warehouse_Analytics.ipynb
-│   └── Week5_Inventory_Health_Analytics.ipynb
+│   ├── Week5_Inventory_Health_Analytics.ipynb
+│   └── Week6_Advanced_Inventory_Analytics.ipynb
 │
 ├── docs/
 │   ├── Data_Dictionary.md
@@ -106,14 +119,16 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Data_Cleaning_Report.md
 │   ├── Product_Inventory_Report.md
 │   ├── Warehouse_Analytics_Report.md
-│   └── Inventory_Health_Report.md
+│   ├── Inventory_Health_Report.md
+│   └── Advanced_Inventory_Report.md 
 │
 ├── sprint-notes/
 │   ├── Week1.md
 │   ├── Week2.md
 │   ├── Week3.md
 │   ├── Week4.md
-│   └── Week5.md
+│   ├── Week5.md
+│   └── Week6.md
 │
 └── README.md
 ```
