@@ -79,6 +79,18 @@ The objective is to analyze warehouse, inventory, supplier, customer, and sales 
 - KPI dashboard
 - Business recommendations
 
+### ✅ Week 7 – Supplier & Procurement Analytics
+
+- Supplier contribution analysis
+- Procurement value analysis
+- Purchase order analysis
+- Supplier reliability analysis
+- Supplier delivery performance
+- Supplier dependency risk
+- Critical product supplier analysis
+- Supplier KPI dashboard
+- Business recommendations
+
 ## Dataset
 
 The project consists of 12 CSV datasets:
@@ -110,17 +122,18 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week3_Product_Inventory_Analysis.ipynb
 │   ├── Week4_Warehouse_Analytics.ipynb
 │   ├── Week5_Inventory_Health_Analytics.ipynb
-│   └── Week6_Advanced_Inventory_Analytics.ipynb
+│   ├── Week6_Advanced_Inventory_Analytics.ipynb
+│   └── Week7_Supplier_Procurement_Analytics.ipynb
 │
 ├── docs/
 │   ├── Data_Dictionary.md
 │   ├── Data_Quality_Report.md
-│   ├── Dataset_Relationships.md
 │   ├── Data_Cleaning_Report.md
 │   ├── Product_Inventory_Report.md
 │   ├── Warehouse_Analytics_Report.md
 │   ├── Inventory_Health_Report.md
-│   └── Advanced_Inventory_Report.md 
+│   ├── Advanced_Inventory_Report.md
+│   └── Supplier_Procurement_Report.md
 │
 ├── sprint-notes/
 │   ├── Week1.md
@@ -128,7 +141,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week3.md
 │   ├── Week4.md
 │   ├── Week5.md
-│   └── Week6.md
+│   ├── Week6.md
+│   └── Week7.md
 │
 └── README.md
 ```
