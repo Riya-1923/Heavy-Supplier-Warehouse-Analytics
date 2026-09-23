@@ -91,6 +91,25 @@ The objective is to analyze warehouse, inventory, supplier, customer, and sales 
 - Supplier KPI dashboard
 - Business recommendations
 
+### ✅ Week 8 – Customer Analytics & Segmentation
+
+- Customer profile analysis
+- Customer purchase behaviour analysis
+- Customer recency, frequency and monetary (RFM) analysis
+- RFM scoring and customer segmentation
+- Champion customer identification
+- Loyal customer analysis
+- Potential customer analysis
+- At-risk customer identification
+- Inactive customer analysis
+- High-value customer analysis
+- Customer analysis by industry segment
+- Customer analysis by region
+- Customer analysis by branch
+- Sales channel analysis
+- Customer KPI dashboard
+- Business insights and recommendations
+
 ## Dataset
 
 The project consists of 12 CSV datasets:
@@ -123,7 +142,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week4_Warehouse_Analytics.ipynb
 │   ├── Week5_Inventory_Health_Analytics.ipynb
 │   ├── Week6_Advanced_Inventory_Analytics.ipynb
-│   └── Week7_Supplier_Procurement_Analytics.ipynb
+│   ├── Week7_Supplier_Procurement_Analytics.ipynb
+│   └── Week8_Customer_Analytics.ipynb
 │
 ├── docs/
 │   ├── Data_Dictionary.md
@@ -133,7 +153,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Warehouse_Analytics_Report.md
 │   ├── Inventory_Health_Report.md
 │   ├── Advanced_Inventory_Report.md
-│   └── Supplier_Procurement_Report.md
+│   ├── Supplier_Procurement_Report.md
+│   └── Customer_Analytics_Report.md
 │
 ├── sprint-notes/
 │   ├── Week1.md
@@ -142,7 +163,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week4.md
 │   ├── Week5.md
 │   ├── Week6.md
-│   └── Week7.md
+│   ├── Week7.md
+│   └── Week8.md
 │
 └── README.md
 ```

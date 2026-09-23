@@ -1,0 +1,501 @@
+customer_id,customer_type,industry_segment,city,state,region,branch_id,recency,frequency,monetary,average_order_value,R_score,F_score,M_score,RFM_score,RFM_total,customer_segment,credit_limit,current_balance,customer_rating
+C0153,Retail,Rental,Patna,Bihar,East,Pun001,19,59,109360638.6,1853570.1457627118,4,5,5,455,14,Champions,32014,27630,4
+C0483,Corporate,Rental,Delhi,Delhi,North,Del001,13,53,108672502.0,2050424.566037736,4,5,5,455,14,Champions,511858,312732,1
+C0288,Dealer,Infrastructure,Delhi,Delhi,North,Del001,74,63,107119652.2,1700311.9396825398,2,5,5,255,12,Loyal Customers,279745,19656,3
+C0495,Fleet Owner,Infrastructure,Jaipur,Rajasthan,North,Ahm001,36,52,105717422.2,2033027.35,3,5,5,355,13,Champions,414484,135441,2
+C0420,Retail,Rental,Chennai,Tamil Nadu,South,Chn001,39,54,105420085.2,1952223.8,3,5,5,355,13,Champions,44758,199,3
+C0240,Corporate,Manufacturing,Hyderabad,Telangana,South,Hyd001,51,50,104286776.8,2085735.5359999998,3,5,5,355,13,Champions,695741,453727,1
+C0207,Corporate,Rental,Kolkata,West Bengal,East,Kol001,79,51,101737768.4,1994858.2039215688,2,5,5,255,12,Loyal Customers,463240,70498,1
+C0342,Dealer,Infrastructure,Delhi,Delhi,North,Del001,83,44,100153639.6,2276219.0818181816,2,4,5,245,11,Loyal Customers,104911,39842,5
+C0466,Retail,Manufacturing,Bengaluru,Karnataka,South,Del001,18,52,99913868.2,1921420.5423076923,4,5,5,455,14,Champions,17753,15154,3
+C0359,Fleet Owner,Mining,Hyderabad,Telangana,South,Hyd001,33,52,99895983.4,1921076.603846154,3,5,5,355,13,Champions,413735,90805,3
+C0475,Fleet Owner,Construction,Kolkata,West Bengal,East,Kol001,13,58,97922412.6,1688317.4586206896,4,5,5,455,14,Champions,306605,272802,3
+C0178,Dealer,Logistics,Kolkata,West Bengal,East,Kol001,22,58,97309961.6,1677757.9586206896,4,5,5,455,14,Champions,178736,135022,1
+C0046,Retail,Rental,Ahmedabad,Gujarat,West,Ahm001,22,51,97081196.6,1903552.8745098037,4,5,5,455,14,Champions,14743,2408,3
+C0206,Retail,Construction,Pune,Maharashtra,West,Pun001,20,46,96630874.4,2100671.1826086957,4,5,5,455,14,Champions,29675,24913,3
+C0254,Dealer,Mining,Ahmedabad,Gujarat,West,Ahm001,97,52,96361380.0,1853103.4615384615,1,5,5,155,11,Loyal Customers,194781,184262,5
+C0110,Dealer,Logistics,Indore,Madhya Pradesh,Central,Chn001,193,44,94461957.2,2146862.6636363636,1,4,5,145,10,Loyal Customers,107758,68824,5
+C0083,Dealer,Infrastructure,Delhi,Delhi,North,Del001,88,50,94364155.4,1887283.108,2,5,5,255,12,Loyal Customers,214857,64003,2
+C0490,Government,Logistics,Pune,Maharashtra,West,Pun001,2,50,93900425.2,1878008.504,5,5,5,555,15,Champions,1262928,379981,3
+C0200,Retail,Logistics,Ranchi,Jharkhand,East,Del001,36,52,93452113.6,1797156.0307692306,3,5,5,355,13,Champions,12816,11546,2
+C0291,Retail,Construction,Hyderabad,Telangana,South,Hyd001,28,54,93293350.4,1727654.6370370372,4,5,5,455,14,Champions,34183,21689,2
+C0462,Retail,Logistics,Chennai,Tamil Nadu,South,Chn001,48,52,92177113.6,1772636.7999999998,3,5,5,355,13,Champions,22565,9458,5
+C0134,Fleet Owner,Infrastructure,Ahmedabad,Gujarat,West,Ahm001,37,50,91565309.0,1831306.18,3,5,5,355,13,Champions,369606,281323,5
+C0304,Dealer,Construction,Delhi,Delhi,North,Del001,6,51,91211305.8,1788456.9764705882,5,5,5,555,15,Champions,177177,155235,5
+C0380,Fleet Owner,Manufacturing,Hyderabad,Telangana,South,Hyd001,23,58,91048215.0,1569796.8103448276,4,5,5,455,14,Champions,343972,250436,5
+C0371,Retail,Rental,Hyderabad,Telangana,South,Hyd001,59,51,91039744.6,1785093.031372549,2,5,5,255,12,Loyal Customers,20028,141,3
+C0241,Government,Construction,Ahmedabad,Gujarat,West,Ahm001,61,46,90825382.8,1974464.8434782608,2,5,5,255,12,Loyal Customers,973243,304765,1
+C0084,Corporate,Logistics,Pune,Maharashtra,West,Pun001,26,47,90726465.4,1930350.3276595746,4,5,5,455,14,Champions,522422,458160,3
+C0107,Fleet Owner,Construction,Delhi,Delhi,North,Del001,20,52,90133837.8,1733343.0346153846,4,5,5,455,14,Champions,412425,152905,1
+C0468,Fleet Owner,Rental,Hyderabad,Telangana,South,Hyd001,0,56,89417777.4,1596746.0250000001,5,5,5,555,15,Champions,531281,35084,1
+C0421,Retail,Construction,Chennai,Tamil Nadu,South,Chn001,105,45,88158611.2,1959080.2488888889,1,5,5,155,11,Loyal Customers,35710,11463,3
+C0294,Government,Infrastructure,Hyderabad,Telangana,South,Hyd001,4,51,88081900.8,1727096.094117647,5,5,5,555,15,Champions,826435,405286,4
+C0142,Retail,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,23,48,87849122.2,1830190.0458333334,4,5,5,455,14,Champions,34620,17030,1
+C0307,Dealer,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,37,48,87787133.2,1828898.6083333334,3,5,5,355,13,Champions,302503,100600,1
+C0070,Government,Logistics,Ahmedabad,Gujarat,West,Ahm001,11,48,87747724.2,1828077.5875000001,5,5,5,555,15,Champions,549454,84153,3
+C0076,Government,Mining,Chennai,Tamil Nadu,South,Chn001,4,49,87221895.8,1780038.6897959183,5,5,5,555,15,Champions,1094151,760549,2
+C0440,Retail,Manufacturing,Hyderabad,Telangana,South,Hyd001,71,47,86507191.8,1840578.54893617,2,5,5,255,12,Loyal Customers,17475,3995,5
+C0005,Dealer,Construction,Ahmedabad,Gujarat,West,Ahm001,88,51,85668379.8,1679772.1529411764,2,5,5,255,12,Loyal Customers,380783,183927,2
+C0197,Government,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,74,50,85162557.6,1703251.1519999998,2,5,5,255,12,Loyal Customers,1385304,201035,2
+C0403,Government,Construction,Kolkata,West Bengal,East,Kol001,21,49,85078442.8,1736294.751020408,4,5,5,455,14,Champions,954046,440000,4
+C0394,Government,Construction,Hyderabad,Telangana,South,Hyd001,40,46,84930805.8,1846321.8652173912,3,5,5,355,13,Champions,685435,586864,4
+C0201,Dealer,Infrastructure,Chennai,Tamil Nadu,South,Chn001,18,49,84633831.6,1727221.0530612243,4,5,5,455,14,Champions,468119,467851,4
+C0435,Dealer,Manufacturing,Chennai,Tamil Nadu,South,Chn001,60,57,84330852.8,1479488.645614035,2,5,5,255,12,Loyal Customers,393189,129432,4
+C0476,Fleet Owner,Infrastructure,Delhi,Delhi,North,Del001,93,38,84202311.6,2215850.305263158,1,3,5,135,9,Potential Customers,209985,8474,3
+C0049,Dealer,Manufacturing,Coimbatore,Tamil Nadu,South,Kol001,6,42,84164002.6,2003904.8238095236,5,4,5,545,14,Champions,116389,95867,5
+C0119,Government,Manufacturing,Surat,Gujarat,West,Del001,38,58,83814433.4,1445076.4379310345,3,5,5,355,13,Champions,1079453,124485,4
+C0375,Fleet Owner,Mining,Surat,Gujarat,West,Pun001,58,44,83627577.8,1900626.768181818,2,4,5,245,11,Loyal Customers,243350,85892,1
+C0113,Corporate,Logistics,Chennai,Tamil Nadu,South,Chn001,8,42,83281862.4,1982901.4857142859,5,4,5,545,14,Champions,965190,17579,2
+C0244,Government,Logistics,Lucknow,Uttar Pradesh,North,Kol001,22,48,82751848.8,1723996.8499999999,4,5,5,455,14,Champions,1113022,736516,3
+C0069,Dealer,Logistics,Delhi,Delhi,North,Del001,20,52,82661260.2,1589639.6192307693,4,5,5,455,14,Champions,413414,288815,2
+C0129,Corporate,Mining,Delhi,Delhi,North,Del001,13,40,82458307.6,2061457.69,5,3,5,535,13,Champions,902420,248703,5
+C0272,Government,Construction,Delhi,Delhi,North,Del001,18,43,82042535.4,1907965.939534884,4,4,5,445,13,Champions,963398,856171,1
+C0060,Dealer,Mining,Hyderabad,Telangana,South,Hyd001,37,50,82033521.6,1640670.4319999998,3,5,5,355,13,Champions,350950,129725,1
+C0221,Dealer,Logistics,Delhi,Delhi,North,Del001,117,44,82001959.0,1863680.8863636365,1,4,5,145,10,Loyal Customers,244567,24830,5
+C0013,Dealer,Construction,Surat,Gujarat,West,Ahm001,65,49,81970974.6,1672877.0326530612,2,5,5,255,12,Loyal Customers,425862,104029,2
+C0384,Retail,Construction,Chennai,Tamil Nadu,South,Chn001,113,42,81888155.8,1949717.995238095,1,4,5,145,10,Loyal Customers,30122,4580,3
+C0482,Fleet Owner,Logistics,Kolkata,West Bengal,East,Kol001,28,36,81628023.2,2267445.088888889,4,2,5,425,11,Loyal Customers,285819,265924,1
+C0062,Dealer,Construction,Hyderabad,Telangana,South,Hyd001,61,38,81412848.2,2142443.3736842107,2,2,5,225,9,Potential Customers,231418,123783,1
+C0082,Fleet Owner,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,13,50,81249145.6,1624982.9119999998,5,5,5,555,15,Champions,432697,104648,3
+C0169,Fleet Owner,Construction,Ahmedabad,Gujarat,West,Ahm001,65,44,80772054.4,1835728.5090909093,2,4,5,245,11,Loyal Customers,693290,315019,4
+C0250,Government,Infrastructure,Patna,Bihar,East,Pun001,11,45,80665961.2,1792576.9155555556,5,4,5,545,14,Champions,886619,515833,2
+C0234,Corporate,Infrastructure,Surat,Gujarat,West,Chn001,5,33,80621425.6,2443073.503030303,5,1,5,515,11,Loyal Customers,418214,52828,2
+C0295,Corporate,Mining,Kolkata,West Bengal,East,Kol001,83,46,80533744.6,1750733.5782608695,2,5,5,255,12,Loyal Customers,789992,559779,5
+C0165,Fleet Owner,Manufacturing,Delhi,Delhi,North,Del001,7,51,80463427.2,1577714.2588235296,5,5,5,555,15,Champions,364580,79115,4
+C0102,Government,Infrastructure,Patna,Bihar,East,Kol001,68,38,80030261.4,2106059.510526316,2,2,5,225,9,Potential Customers,1221840,547151,4
+C0215,Corporate,Rental,Chennai,Tamil Nadu,South,Chn001,7,53,79956715.4,1508617.2716981133,5,5,5,555,15,Champions,647280,121034,5
+C0276,Dealer,Manufacturing,Indore,Madhya Pradesh,Central,Kol001,2,49,79846720.4,1629524.906122449,5,5,5,555,15,Champions,337657,283507,3
+C0356,Dealer,Mining,Bhubaneswar,Odisha,East,Del001,26,45,79690881.0,1770908.4666666666,4,4,5,445,13,Champions,277333,232370,2
+C0297,Fleet Owner,Rental,Chennai,Tamil Nadu,South,Chn001,183,39,79590004.4,2040769.3435897438,1,3,5,135,9,Potential Customers,333899,295884,3
+C0103,Dealer,Infrastructure,Coimbatore,Tamil Nadu,South,Kol001,124,42,79536298.4,1893721.3904761907,1,4,5,145,10,Loyal Customers,167168,77679,4
+C0219,Government,Manufacturing,Pune,Maharashtra,West,Pun001,10,48,79417300.6,1654527.0958333332,5,5,5,555,15,Champions,1072558,185057,2
+C0459,Retail,Logistics,Ranchi,Jharkhand,East,Pun001,17,45,79388823.0,1764196.0666666667,4,5,5,455,14,Champions,16763,15429,5
+C0478,Retail,Rental,Delhi,Delhi,North,Del001,2,47,79015238.4,1681175.285106383,5,5,5,555,15,Champions,15416,13473,1
+C0311,Government,Infrastructure,Chandigarh,Punjab,North,Del001,105,46,78976613.2,1716882.895652174,1,5,5,155,11,Loyal Customers,1148922,76276,4
+C0489,Fleet Owner,Rental,Chennai,Tamil Nadu,South,Chn001,136,51,78799228.8,1545082.9176470588,1,5,5,155,11,Loyal Customers,594359,581546,5
+C0422,Government,Construction,Hyderabad,Telangana,South,Hyd001,57,44,78729224.2,1789300.55,2,4,5,245,11,Loyal Customers,858335,605029,5
+C0042,Fleet Owner,Rental,Chennai,Tamil Nadu,South,Chn001,79,44,78392790.0,1781654.3181818181,2,4,5,245,11,Loyal Customers,731768,472737,4
+C0135,Retail,Rental,Bengaluru,Karnataka,South,Del001,126,45,78383415.4,1741853.6755555556,1,4,5,145,10,Loyal Customers,21372,14639,2
+C0282,Government,Logistics,Kolkata,West Bengal,East,Kol001,7,51,78317730.4,1535641.7725490197,5,5,5,555,15,Champions,1271863,328689,2
+C0246,Retail,Manufacturing,Delhi,Delhi,North,Del001,59,37,78316881.4,2116672.4702702705,2,2,5,225,9,Potential Customers,31917,9359,2
+C0491,Dealer,Infrastructure,Chennai,Tamil Nadu,South,Chn001,180,32,78280966.4,2446280.2,1,1,5,115,7,Potential Customers,312699,2744,1
+C0284,Corporate,Manufacturing,Kolkata,West Bengal,East,Kol001,8,45,78191857.0,1737596.822222222,5,4,5,545,14,Champions,948858,247207,1
+C0196,Fleet Owner,Rental,Guwahati,Assam,North East,Kol001,64,54,78120269.6,1446671.6592592592,2,5,5,255,12,Loyal Customers,318408,222601,3
+C0154,Fleet Owner,Logistics,Delhi,Delhi,North,Del001,15,46,77981883.6,1695258.3391304347,4,5,5,455,14,Champions,305293,279000,5
+C0411,Corporate,Mining,Hyderabad,Telangana,South,Hyd001,19,46,77930913.2,1694150.286956522,4,5,5,455,14,Champions,621936,347662,5
+C0168,Dealer,Infrastructure,Pune,Maharashtra,West,Pun001,13,38,77926391.0,2050694.5,5,2,5,525,12,Loyal Customers,238781,189804,1
+C0002,Fleet Owner,Manufacturing,Hyderabad,Telangana,South,Hyd001,33,56,77917319.2,1391380.7,3,5,5,355,13,Champions,531506,426735,2
+C0041,Government,Rental,Hyderabad,Telangana,South,Hyd001,203,42,77732741.0,1850779.5476190476,1,4,5,145,10,Loyal Customers,592802,392894,5
+C0006,Government,Construction,Ahmedabad,Gujarat,West,Ahm001,120,46,77685503.4,1688815.291304348,1,5,5,155,11,Loyal Customers,514827,303122,3
+C0045,Corporate,Rental,Kolkata,West Bengal,East,Kol001,16,43,77675754.60000001,1806412.8976744188,4,4,5,445,13,Champions,495460,268927,4
+C0016,Government,Rental,Ranchi,Jharkhand,East,Del001,13,41,77633128.0,1893490.9268292682,5,3,5,535,13,Champions,1033243,195540,4
+C0373,Corporate,Manufacturing,Hyderabad,Telangana,South,Hyd001,120,43,77626618.6,1805270.2,1,4,5,145,10,Loyal Customers,502349,395823,3
+C0186,Fleet Owner,Infrastructure,Kolkata,West Bengal,East,Kol001,20,42,77458487.0,1844249.6904761905,4,4,5,445,13,Champions,198216,73566,3
+C0242,Government,Construction,Chennai,Tamil Nadu,South,Chn001,43,50,77418552.4,1548371.0480000002,3,5,5,355,13,Champions,568255,46526,3
+C0063,Retail,Rental,Delhi,Delhi,North,Del001,12,43,77222513.2,1795872.4000000001,5,4,5,545,14,Champions,26508,25298,5
+C0300,Dealer,Mining,Delhi,Delhi,North,Del001,31,44,77188710.6,1754288.8772727272,4,4,5,445,13,Champions,121112,70050,1
+C0071,Corporate,Rental,Jaipur,Rajasthan,North,Kol001,35,47,76936168.8,1636939.7617021275,3,5,5,355,13,Champions,735733,268163,2
+C0026,Fleet Owner,Mining,Jaipur,Rajasthan,North,Hyd001,2,41,76679411.4,1870229.5463414635,5,3,5,535,13,Champions,172621,3188,5
+C0116,Dealer,Construction,Delhi,Delhi,North,Del001,97,40,76668904.6,1916722.6149999998,1,3,5,135,9,Potential Customers,480944,340796,1
+C0257,Corporate,Logistics,Delhi,Delhi,North,Del001,8,45,76640757.4,1703127.9422222225,5,4,5,545,14,Champions,443957,112531,1
+C0385,Corporate,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,99,42,76626473.0,1824439.8333333333,1,4,5,145,10,Loyal Customers,406137,295086,2
+C0216,Government,Mining,Kolkata,West Bengal,East,Kol001,41,46,76597799.4,1665169.5521739132,3,5,4,354,12,Loyal Customers,1360073,1039649,1
+C0255,Retail,Infrastructure,Chennai,Tamil Nadu,South,Chn001,50,49,76546128.2,1562165.881632653,3,5,4,354,12,Loyal Customers,22302,1943,4
+C0369,Government,Manufacturing,Pune,Maharashtra,West,Pun001,18,46,76487726.6,1662776.6652173912,4,5,4,454,13,Champions,1482938,332815,1
+C0160,Retail,Rental,Ahmedabad,Gujarat,West,Ahm001,38,49,76401059.6,1559205.2979591836,3,5,4,354,12,Loyal Customers,45628,6888,2
+C0141,Corporate,Rental,Ahmedabad,Gujarat,West,Ahm001,46,40,76394196.6,1909854.9149999998,3,3,4,334,10,Loyal Customers,742629,317916,4
+C0237,Dealer,Infrastructure,Coimbatore,Tamil Nadu,South,Hyd001,77,46,76179786.8,1656082.3217391304,2,5,4,254,11,Loyal Customers,488722,178656,5
+C0192,Fleet Owner,Logistics,Patna,Bihar,East,Del001,67,43,75785020.60000001,1762442.3395348839,2,4,4,244,10,Loyal Customers,476705,231421,2
+C0343,Corporate,Construction,Pune,Maharashtra,West,Pun001,40,45,75493416.4,1677631.4755555557,3,4,4,344,11,Loyal Customers,994769,993939,1
+C0065,Corporate,Mining,Vadodara,Gujarat,West,Ahm001,19,41,75287487.6,1836280.1853658536,4,3,4,434,11,Loyal Customers,464475,104333,4
+C0253,Retail,Rental,Pune,Maharashtra,West,Pun001,34,40,75155616.4,1878890.4100000001,3,3,4,334,10,Loyal Customers,43197,9387,2
+C0447,Fleet Owner,Rental,Kolkata,West Bengal,East,Kol001,8,39,74979355.4,1922547.5743589746,5,3,4,534,12,Loyal Customers,659733,93235,2
+C0025,Corporate,Infrastructure,Pune,Maharashtra,West,Pun001,101,44,74907916.8,1702452.6545454545,1,4,4,144,9,Potential Customers,738335,521844,2
+C0269,Government,Mining,Chennai,Tamil Nadu,South,Chn001,39,48,74531970.2,1552749.3791666667,3,5,4,354,12,Loyal Customers,1060345,618,1
+C0374,Corporate,Manufacturing,Pune,Maharashtra,West,Pun001,21,46,74514218.8,1619874.3217391304,4,5,4,454,13,Champions,309830,45731,5
+C0488,Government,Construction,Chennai,Tamil Nadu,South,Chn001,35,40,74510940.6,1862773.515,3,3,4,334,10,Loyal Customers,1281429,1043182,1
+C0471,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,Ahm001,34,42,74383440.6,1771034.2999999998,3,4,4,344,11,Loyal Customers,601565,128183,5
+C0337,Corporate,Manufacturing,Delhi,Delhi,North,Del001,128,35,74236665.0,2121047.5714285714,1,2,4,124,7,Potential Customers,713111,101691,2
+C0166,Fleet Owner,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,23,34,74137215.4,2180506.3352941177,4,1,4,414,9,Potential Customers,735924,576566,2
+C0140,Retail,Logistics,Pune,Maharashtra,West,Pun001,37,44,74126515.8,1684693.5409090908,3,4,4,344,11,Loyal Customers,14401,7550,3
+C0032,Government,Logistics,Ahmedabad,Gujarat,West,Ahm001,67,45,74116167.4,1647025.9422222225,2,4,4,244,10,Loyal Customers,1262598,420821,5
+C0318,Corporate,Logistics,Delhi,Delhi,North,Del001,52,41,74022907.8,1805436.7756097561,3,4,4,344,11,Loyal Customers,973000,403649,3
+C0109,Retail,Mining,Chennai,Tamil Nadu,South,Chn001,22,48,73760844.8,1536684.2666666666,4,5,4,454,13,Champions,47756,11043,1
+C0270,Corporate,Manufacturing,Delhi,Delhi,North,Del001,11,46,73637293.4,1600810.7260869567,5,5,4,554,14,Champions,711134,413227,2
+C0355,Government,Infrastructure,Hyderabad,Telangana,South,Hyd001,13,40,73634372.6,1840859.315,5,3,4,534,12,Loyal Customers,917399,657955,4
+C0193,Dealer,Infrastructure,Vadodara,Gujarat,West,Chn001,31,44,73624933.0,1673293.9318181819,4,4,4,444,12,Loyal Customers,495310,178591,4
+C0131,Corporate,Rental,Hyderabad,Telangana,South,Hyd001,200,39,73559256.8,1886134.7897435897,1,3,4,134,8,Potential Customers,215893,70818,2
+C0455,Retail,Logistics,Indore,Madhya Pradesh,Central,Pun001,34,40,73447442.0,1836186.05,3,3,4,334,10,Loyal Customers,12300,6971,1
+C0415,Government,Infrastructure,Guwahati,Assam,North East,Pun001,81,36,73386860.0,2038523.888888889,2,2,4,224,8,Potential Customers,870771,121474,1
+C0261,Dealer,Manufacturing,Delhi,Delhi,North,Del001,25,40,73371667.4,1834291.685,4,3,4,434,11,Loyal Customers,164597,79881,5
+C0425,Dealer,Manufacturing,Chennai,Tamil Nadu,South,Chn001,22,44,73307047.0,1666069.25,4,4,4,444,12,Loyal Customers,197706,90771,3
+C0149,Government,Manufacturing,Surat,Gujarat,West,Ahm001,19,42,73287579.6,1744942.3714285712,4,4,4,444,12,Loyal Customers,1227707,1171024,3
+C0128,Retail,Mining,Ahmedabad,Gujarat,West,Ahm001,13,39,73171694.8,1876197.3025641025,5,3,4,534,12,Loyal Customers,39121,16592,1
+C0293,Dealer,Logistics,Pune,Maharashtra,West,Pun001,97,42,73130661.4,1741206.223809524,1,4,4,144,9,Potential Customers,304956,217813,3
+C0499,Corporate,Construction,Bhubaneswar,Odisha,East,Pun001,32,44,72950313.2,1657961.6636363638,3,4,4,344,11,Loyal Customers,598104,54844,5
+C0306,Fleet Owner,Manufacturing,Kolkata,West Bengal,East,Kol001,15,47,72686638.2,1546524.2170212767,4,5,4,454,13,Champions,126541,117140,1
+C0184,Retail,Rental,Chennai,Tamil Nadu,South,Chn001,33,35,72655964.8,2075884.7085714284,3,2,4,324,9,Potential Customers,47652,2668,3
+C0428,Retail,Construction,Delhi,Delhi,North,Del001,127,45,72557852.6,1612396.7244444443,1,5,4,154,10,Loyal Customers,39509,3190,4
+C0225,Fleet Owner,Logistics,Delhi,Delhi,North,Del001,167,51,72456292.4,1420711.6156862746,1,5,4,154,10,Loyal Customers,431855,283635,5
+C0460,Dealer,Logistics,Coimbatore,Tamil Nadu,South,Del001,36,36,72367400.6,2010205.572222222,3,2,4,324,9,Potential Customers,143749,30133,1
+C0209,Corporate,Infrastructure,Ranchi,Jharkhand,East,Chn001,39,46,72304789.4,1571843.247826087,3,5,4,354,12,Loyal Customers,834417,590973,5
+C0172,Dealer,Manufacturing,Bengaluru,Karnataka,South,Chn001,34,42,72288356.4,1721151.342857143,3,4,4,344,11,Loyal Customers,425290,197440,1
+C0377,Dealer,Logistics,Nagpur,Maharashtra,West,Chn001,24,40,72235206.4,1805880.1600000001,4,3,4,434,11,Loyal Customers,162271,99916,3
+C0264,Retail,Infrastructure,Pune,Maharashtra,West,Pun001,59,39,72106046.6,1848872.9897435897,2,3,4,234,9,Potential Customers,35955,35640,4
+C0383,Fleet Owner,Infrastructure,Lucknow,Uttar Pradesh,North,Pun001,42,43,71832906.0,1670532.6976744186,3,4,4,344,11,Loyal Customers,316263,124305,5
+C0429,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,Ahm001,71,44,71560643.6,1626378.2636363634,2,4,4,244,10,Loyal Customers,375146,303392,3
+C0054,Fleet Owner,Manufacturing,Chennai,Tamil Nadu,South,Chn001,17,42,71503829.4,1702472.1285714288,4,4,4,444,12,Loyal Customers,225508,149649,2
+C0191,Corporate,Manufacturing,Visakhapatnam,Andhra Pradesh,South,Kol001,19,31,71483715.2,2305926.2967741936,4,1,4,414,9,Potential Customers,615994,569076,2
+C0469,Government,Manufacturing,Chandigarh,Punjab,North,Kol001,13,44,71372672.2,1622106.1863636365,5,4,4,544,13,Champions,959081,324787,1
+C0247,Corporate,Logistics,Bhubaneswar,Odisha,East,Ahm001,48,42,71151399.8,1694080.9476190475,3,4,4,344,11,Loyal Customers,294502,230829,2
+C0461,Corporate,Infrastructure,Delhi,Delhi,North,Del001,61,42,71054553.4,1691775.080952381,2,4,4,244,10,Loyal Customers,965128,447317,5
+C0085,Retail,Mining,Chennai,Tamil Nadu,South,Chn001,102,44,71008889.0,1613838.3863636365,1,4,4,144,9,Potential Customers,18145,7599,4
+C0236,Corporate,Mining,Mumbai,Maharashtra,West,Kol001,67,47,70995165.6,1510535.4382978722,2,5,4,254,11,Loyal Customers,413027,200865,1
+C0341,Fleet Owner,Mining,Delhi,Delhi,North,Del001,85,38,70851281.4,1864507.405263158,2,3,4,234,9,Potential Customers,303484,207197,5
+C0406,Dealer,Logistics,Pune,Maharashtra,West,Pun001,81,37,70714584.6,1911204.989189189,2,2,4,224,8,Potential Customers,229106,158033,3
+C0326,Government,Mining,Kolkata,West Bengal,East,Kol001,1,47,70540745.6,1500866.9276595744,5,5,4,554,14,Champions,1143072,798334,4
+C0126,Dealer,Manufacturing,Hyderabad,Telangana,South,Hyd001,270,39,70535310.0,1808597.6923076923,1,3,4,134,8,Potential Customers,473103,222292,4
+C0340,Government,Mining,Hyderabad,Telangana,South,Hyd001,27,39,70311394.8,1802856.276923077,4,3,4,434,11,Loyal Customers,610937,228953,3
+C0263,Government,Rental,Chennai,Tamil Nadu,South,Chn001,60,40,70309921.0,1757748.025,2,3,4,234,9,Potential Customers,907695,500438,3
+C0123,Corporate,Infrastructure,Kolkata,West Bengal,East,Kol001,57,37,70243447.0,1898471.5405405406,2,2,4,224,8,Potential Customers,574353,239735,3
+C0319,Dealer,Mining,Bengaluru,Karnataka,South,Kol001,23,37,69856429.4,1888011.6054054056,4,2,4,424,10,Loyal Customers,396406,88680,5
+C0408,Government,Infrastructure,Hyderabad,Telangana,South,Hyd001,59,39,69586523.2,1784269.8256410258,2,3,4,234,9,Potential Customers,1461198,1221928,4
+C0189,Government,Manufacturing,Visakhapatnam,Andhra Pradesh,South,Kol001,50,41,69544094.2,1696197.4195121953,3,3,4,334,10,Loyal Customers,1168432,250217,4
+C0314,Retail,Logistics,Kolkata,West Bengal,East,Kol001,96,45,69465050.8,1543667.7955555555,1,4,4,144,9,Potential Customers,10952,8769,1
+C0035,Dealer,Infrastructure,Indore,Madhya Pradesh,Central,Chn001,49,46,69432703.6,1509406.5999999999,3,5,4,354,12,Loyal Customers,333126,90011,4
+C0413,Fleet Owner,Manufacturing,Chennai,Tamil Nadu,South,Chn001,53,46,69429652.6,1509340.2739130433,2,5,4,254,11,Loyal Customers,225464,22974,1
+C0010,Dealer,Construction,Chennai,Tamil Nadu,South,Chn001,34,50,69405822.8,1388116.456,3,5,4,354,12,Loyal Customers,277717,105625,5
+C0331,Dealer,Logistics,Delhi,Delhi,North,Del001,16,44,69377141.2,1576753.2090909092,4,4,4,444,12,Loyal Customers,270715,127398,2
+C0138,Corporate,Mining,Hyderabad,Telangana,South,Hyd001,6,41,69371199.4,1691980.473170732,5,3,4,534,12,Loyal Customers,251506,244794,5
+C0258,Corporate,Mining,Chennai,Tamil Nadu,South,Chn001,82,31,69315386.0,2235980.193548387,2,1,4,214,7,Potential Customers,299133,238697,2
+C0268,Government,Mining,Pune,Maharashtra,West,Pun001,85,37,69239445.0,1871336.3513513512,2,2,4,224,8,Potential Customers,1168032,365651,3
+C0414,Dealer,Construction,Chennai,Tamil Nadu,South,Chn001,0,44,69142464.4,1571419.6454545455,5,4,4,544,13,Champions,252548,96330,4
+C0161,Dealer,Mining,Ahmedabad,Gujarat,West,Ahm001,44,43,69069391.0,1606264.9069767443,3,4,4,344,11,Loyal Customers,404774,243701,4
+C0176,Dealer,Logistics,Chennai,Tamil Nadu,South,Chn001,146,44,68872893.2,1565293.0272727273,1,4,4,144,9,Potential Customers,397313,332315,2
+C0009,Corporate,Rental,Ahmedabad,Gujarat,West,Ahm001,57,34,68836324.8,2024597.788235294,2,1,4,214,7,Potential Customers,273316,231149,4
+C0162,Retail,Mining,Kolkata,West Bengal,East,Kol001,78,30,68830756.4,2294358.546666667,2,1,4,214,7,Potential Customers,21937,2738,4
+C0055,Dealer,Construction,Delhi,Delhi,North,Del001,20,37,68815879.6,1859888.6378378377,4,2,4,424,10,Loyal Customers,394514,195008,1
+C0205,Retail,Construction,Lucknow,Uttar Pradesh,North,Chn001,46,39,68750922.6,1762844.1692307692,3,3,4,334,10,Loyal Customers,45755,34257,2
+C0358,Government,Infrastructure,Pune,Maharashtra,West,Pun001,91,40,68550380.4,1713759.5100000002,1,3,4,134,8,Potential Customers,1086668,719489,4
+C0448,Fleet Owner,Logistics,Kolkata,West Bengal,East,Kol001,20,37,68537789.4,1852372.6864864866,4,2,4,424,10,Loyal Customers,796652,544307,4
+C0486,Government,Manufacturing,Pune,Maharashtra,West,Pun001,85,42,68491843.6,1630758.1809523809,2,4,4,244,10,Loyal Customers,670285,64946,2
+C0039,Fleet Owner,Rental,Hyderabad,Telangana,South,Hyd001,33,40,68445013.6,1711125.3399999999,3,3,4,334,10,Loyal Customers,343809,119070,4
+C0381,Corporate,Mining,Chennai,Tamil Nadu,South,Chn001,10,34,68417032.8,2012265.6705882351,5,1,4,514,10,Loyal Customers,571520,435086,4
+C0398,Government,Rental,Hyderabad,Telangana,South,Hyd001,29,43,68352134.0,1589584.511627907,4,4,4,444,12,Loyal Customers,1207145,1061185,5
+C0328,Government,Rental,Kolkata,West Bengal,East,Kol001,26,40,68279316.4,1706982.9100000001,4,3,4,434,11,Loyal Customers,1177052,510972,4
+C0230,Dealer,Infrastructure,Delhi,Delhi,North,Del001,61,41,68274085.2,1665221.5902439025,2,3,4,234,9,Potential Customers,271689,146416,5
+C0213,Fleet Owner,Rental,Mumbai,Maharashtra,West,Pun001,122,32,68039047.6,2126220.2375,1,1,4,114,6,At Risk,192184,161419,4
+C0171,Fleet Owner,Construction,Chennai,Tamil Nadu,South,Chn001,26,36,68022564.0,1889515.6666666667,4,2,4,424,10,Loyal Customers,687863,7826,3
+C0023,Corporate,Mining,Chennai,Tamil Nadu,South,Chn001,4,37,68015185.6,1838248.2594594592,5,2,4,524,11,Loyal Customers,274997,248491,2
+C0156,Government,Manufacturing,Chennai,Tamil Nadu,South,Chn001,105,36,67944702.4,1887352.8444444446,1,2,4,124,7,Potential Customers,1032586,173071,5
+C0175,Fleet Owner,Rental,Kolkata,West Bengal,East,Kol001,57,41,67902256.2,1656152.5902439025,2,3,4,234,9,Potential Customers,222980,209069,5
+C0467,Retail,Construction,Delhi,Delhi,North,Del001,55,55,67788106.8,1232511.0327272727,2,5,4,254,11,Loyal Customers,10621,1167,5
+C0235,Fleet Owner,Mining,Bhubaneswar,Odisha,East,Chn001,112,43,67658054.0,1573443.1162790698,1,4,4,144,9,Potential Customers,417861,387266,5
+C0312,Government,Construction,Vadodara,Gujarat,West,Pun001,44,40,67470700.2,1686767.5050000001,3,3,4,334,10,Loyal Customers,673691,616166,4
+C0464,Corporate,Infrastructure,Lucknow,Uttar Pradesh,North,Ahm001,109,39,67409135.2,1728439.3641025643,1,3,4,134,8,Potential Customers,703261,194204,1
+C0396,Government,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,24,40,67383019.2,1684575.48,4,3,4,434,11,Loyal Customers,753812,37466,2
+C0438,Corporate,Rental,Kolkata,West Bengal,East,Kol001,121,45,67257764.0,1494616.9777777777,1,5,4,154,10,Loyal Customers,482026,171913,2
+C0249,Corporate,Construction,Ahmedabad,Gujarat,West,Ahm001,91,40,67200206.8,1680005.17,1,3,4,134,8,Potential Customers,817572,617949,4
+C0390,Fleet Owner,Construction,Delhi,Delhi,North,Del001,52,35,67178497.6,1919385.6457142856,3,2,4,324,9,Potential Customers,220350,71369,3
+C0101,Corporate,Logistics,Chennai,Tamil Nadu,South,Chn001,82,43,67105356.8,1560589.6930232558,2,4,4,244,10,Loyal Customers,242777,155072,5
+C0335,Government,Infrastructure,Guwahati,Assam,North East,Pun001,58,43,67074367.8,1559869.018604651,2,4,4,244,10,Loyal Customers,989169,722277,5
+C0001,Retail,Construction,Kolkata,West Bengal,East,Kol001,6,40,67052288.0,1676307.2,5,3,3,533,11,Loyal Customers,45896,43284,4
+C0493,Retail,Construction,Chennai,Tamil Nadu,South,Chn001,39,45,67033833.199999996,1489640.7377777777,3,5,3,353,11,Loyal Customers,18646,17697,3
+C0485,Fleet Owner,Rental,Pune,Maharashtra,West,Pun001,91,34,66922042.0,1968295.3529411764,1,1,3,113,5,At Risk,581553,485739,1
+C0105,Government,Logistics,Delhi,Delhi,North,Del001,35,46,66903370.4,1454421.095652174,3,5,3,353,11,Loyal Customers,1275897,228879,4
+C0275,Fleet Owner,Construction,Vadodara,Gujarat,West,Ahm001,52,47,66880783.6,1422995.395744681,3,5,3,353,11,Loyal Customers,651275,262408,5
+C0365,Government,Manufacturing,Kolkata,West Bengal,East,Kol001,56,47,66847837.2,1422294.4085106384,2,5,3,253,10,Loyal Customers,617154,362148,1
+C0379,Retail,Mining,Vadodara,Gujarat,West,Chn001,16,44,66830982.6,1518885.9681818183,4,4,3,443,11,Loyal Customers,22642,8448,3
+C0231,Government,Infrastructure,Pune,Maharashtra,West,Pun001,53,39,66737768.0,1711224.8205128205,2,3,3,233,8,Potential Customers,903218,113383,4
+C0443,Dealer,Infrastructure,Kolkata,West Bengal,East,Kol001,43,43,66704165.0,1551259.6511627906,3,4,3,343,10,Loyal Customers,466614,183013,1
+C0259,Fleet Owner,Logistics,Coimbatore,Tamil Nadu,South,Chn001,18,37,66515887.2,1797726.6810810813,4,2,3,423,9,Potential Customers,326836,313932,1
+C0031,Government,Mining,Kolkata,West Bengal,East,Kol001,140,40,66478869.4,1661971.7349999999,1,3,3,133,7,Potential Customers,661950,182414,4
+C0498,Fleet Owner,Construction,Kolkata,West Bengal,East,Kol001,134,30,66413930.8,2213797.6933333334,1,1,3,113,5,At Risk,502514,14738,3
+C0064,Corporate,Manufacturing,Chandigarh,Punjab,North,Kol001,17,39,66364513.6,1701654.194871795,4,3,3,433,10,Loyal Customers,577111,313205,3
+C0038,Fleet Owner,Rental,Jaipur,Rajasthan,North,Del001,32,41,66333798.6,1617897.5268292683,4,3,3,433,10,Loyal Customers,348040,45014,1
+C0302,Fleet Owner,Mining,Ahmedabad,Gujarat,West,Ahm001,7,42,66273983.0,1577951.9761904762,5,4,3,543,12,Loyal Customers,698314,539240,1
+C0260,Dealer,Logistics,Hyderabad,Telangana,South,Hyd001,117,38,66249877.0,1743417.8157894737,1,3,3,133,7,Potential Customers,127019,19787,5
+C0290,Corporate,Construction,Ahmedabad,Gujarat,West,Ahm001,46,46,66221482.2,1439597.4391304348,3,5,3,353,11,Loyal Customers,506218,233450,3
+C0099,Fleet Owner,Rental,Visakhapatnam,Andhra Pradesh,South,Pun001,5,52,66209370.0,1273257.1153846155,5,5,3,553,13,Champions,601814,62089,4
+C0333,Corporate,Mining,Hyderabad,Telangana,South,Hyd001,29,42,66085313.2,1573459.8380952382,4,4,3,443,11,Loyal Customers,523789,445736,3
+C0157,Dealer,Infrastructure,Chandigarh,Punjab,North,Pun001,1,38,66039594.4,1737884.0631578946,5,2,3,523,10,Loyal Customers,315705,130064,1
+C0056,Dealer,Mining,Delhi,Delhi,North,Del001,51,38,65974292.4,1736165.589473684,3,2,3,323,8,Potential Customers,209877,191295,4
+C0349,Corporate,Rental,Ahmedabad,Gujarat,West,Ahm001,73,36,65933267.4,1831479.65,2,2,3,223,7,Potential Customers,505172,308946,1
+C0453,Dealer,Mining,Ranchi,Jharkhand,East,Chn001,0,36,65818457.0,1828290.4722222222,5,2,3,523,10,Loyal Customers,158610,20082,3
+C0228,Government,Construction,Chennai,Tamil Nadu,South,Chn001,112,36,65812402.2,1828122.2833333334,1,2,3,123,6,At Risk,1026411,1025544,3
+C0407,Dealer,Logistics,Hyderabad,Telangana,South,Hyd001,6,43,65695217.4,1527795.753488372,5,4,3,543,12,Loyal Customers,379116,62934,2
+C0310,Government,Infrastructure,Patna,Bihar,East,Chn001,54,41,65486421.4,1597229.7902439025,2,4,3,243,9,Potential Customers,735405,630621,4
+C0021,Corporate,Mining,Hyderabad,Telangana,South,Hyd001,60,47,65405456.4,1391605.455319149,2,5,3,253,10,Loyal Customers,856624,298508,5
+C0124,Dealer,Construction,Pune,Maharashtra,West,Pun001,9,47,65379588.0,1391055.0638297873,5,5,3,553,13,Champions,211359,167163,3
+C0492,Dealer,Rental,Ranchi,Jharkhand,East,Hyd001,56,37,65225924.2,1762862.8162162162,2,2,3,223,7,Potential Customers,442676,48242,1
+C0433,Dealer,Infrastructure,Chandigarh,Punjab,North,Ahm001,140,38,65222517.6,1716382.042105263,1,3,3,133,7,Potential Customers,448175,226491,3
+C0198,Government,Mining,Ahmedabad,Gujarat,West,Ahm001,73,38,65200086.6,1715791.752631579,2,3,3,233,8,Potential Customers,1493816,273190,2
+C0227,Fleet Owner,Infrastructure,Kolkata,West Bengal,East,Kol001,68,39,65155178.8,1670645.6102564102,2,3,3,233,8,Potential Customers,282190,210075,1
+C0015,Government,Rental,Pune,Maharashtra,West,Pun001,45,38,64944750.0,1709072.3684210526,3,2,3,323,8,Potential Customers,790010,18560,2
+C0301,Dealer,Mining,Ranchi,Jharkhand,East,Kol001,12,47,64808979.2,1378914.45106383,5,5,3,553,13,Champions,388632,1511,5
+C0273,Dealer,Manufacturing,Kolkata,West Bengal,East,Kol001,0,40,64620418.2,1615510.455,5,3,3,533,11,Loyal Customers,181148,167313,1
+C0280,Corporate,Construction,Pune,Maharashtra,West,Pun001,56,47,64583738.6,1374122.0978723404,2,5,3,253,10,Loyal Customers,252022,26117,4
+C0286,Dealer,Construction,Chennai,Tamil Nadu,South,Chn001,2,39,64515433.4,1654241.882051282,5,3,3,533,11,Loyal Customers,168144,158029,2
+C0395,Corporate,Manufacturing,Kolkata,West Bengal,East,Kol001,11,44,64514679.8,1466242.7227272727,5,4,3,543,12,Loyal Customers,680072,209294,1
+C0080,Retail,Mining,Chennai,Tamil Nadu,South,Chn001,58,46,64442221.6,1400917.8608695653,2,5,3,253,10,Loyal Customers,35201,14738,1
+C0030,Corporate,Construction,Hyderabad,Telangana,South,Hyd001,120,38,64370910.6,1693971.3315789474,1,2,3,123,6,At Risk,501072,443634,5
+C0329,Dealer,Infrastructure,Indore,Madhya Pradesh,Central,Pun001,5,36,64307436.8,1786317.6888888888,5,2,3,523,10,Loyal Customers,434298,220404,1
+C0047,Corporate,Rental,Pune,Maharashtra,West,Pun001,128,36,64303432.2,1786206.4500000002,1,2,3,123,6,At Risk,425838,329681,5
+C0274,Dealer,Mining,Jaipur,Rajasthan,North,Chn001,187,42,64071466.6,1525511.1095238095,1,4,3,143,8,Potential Customers,463140,127143,3
+C0363,Fleet Owner,Logistics,Visakhapatnam,Andhra Pradesh,South,Ahm001,54,37,64018233.4,1730222.5243243242,2,2,3,223,7,Potential Customers,384777,224253,5
+C0251,Dealer,Mining,Chandigarh,Punjab,North,Chn001,178,39,63937240.8,1639416.4307692307,1,3,3,133,7,Potential Customers,325375,94574,4
+C0050,Dealer,Mining,Kolkata,West Bengal,East,Kol001,17,30,63912172.0,2130405.7333333334,4,1,3,413,8,Potential Customers,442160,257973,3
+C0211,Fleet Owner,Manufacturing,Hyderabad,Telangana,South,Hyd001,41,45,63897083.199999996,1419935.1822222222,3,4,3,343,10,Loyal Customers,323531,251580,1
+C0315,Dealer,Rental,Surat,Gujarat,West,Ahm001,14,42,63797282.4,1518982.9142857143,4,4,3,443,11,Loyal Customers,407774,313009,4
+C0173,Retail,Logistics,Chennai,Tamil Nadu,South,Chn001,53,36,63791487.8,1771985.772222222,3,2,3,323,8,Potential Customers,22198,3421,1
+C0424,Retail,Construction,Ahmedabad,Gujarat,West,Ahm001,99,38,63757994.8,1677841.9684210524,1,3,3,133,7,Potential Customers,28345,28072,4
+C0496,Government,Infrastructure,Bhubaneswar,Odisha,East,Pun001,4,41,63706971.4,1553828.5707317074,5,4,3,543,12,Loyal Customers,993386,256383,5
+C0088,Corporate,Infrastructure,Pune,Maharashtra,West,Pun001,19,39,63615211.0,1631159.2564102565,4,3,3,433,10,Loyal Customers,516553,272170,1
+C0190,Retail,Manufacturing,Jaipur,Rajasthan,North,Chn001,2,38,63609819.4,1673942.6157894738,5,2,3,523,10,Loyal Customers,49811,31087,1
+C0256,Corporate,Infrastructure,Guwahati,Assam,North East,Pun001,103,34,63561255.0,1869448.6764705882,1,1,3,113,5,At Risk,930018,60762,4
+C0439,Dealer,Construction,Visakhapatnam,Andhra Pradesh,South,Chn001,2,43,63476155.8,1476189.6697674417,5,4,3,543,12,Loyal Customers,280679,62281,5
+C0077,Corporate,Mining,Delhi,Delhi,North,Del001,15,38,63409372.8,1668667.7052631578,4,2,3,423,9,Potential Customers,715444,620984,1
+C0436,Fleet Owner,Logistics,Kolkata,West Bengal,East,Kol001,16,38,63326538.6,1666487.8578947368,4,3,3,433,10,Loyal Customers,550408,500938,3
+C0152,Corporate,Manufacturing,Chennai,Tamil Nadu,South,Chn001,43,41,63322590.0,1544453.4146341463,3,3,3,333,9,Potential Customers,227415,135210,2
+C0217,Corporate,Infrastructure,Delhi,Delhi,North,Del001,13,38,63312018.8,1666105.7578947367,5,3,3,533,11,Loyal Customers,777454,325192,5
+C0449,Fleet Owner,Logistics,Surat,Gujarat,West,Kol001,42,37,63310212.0,1711086.810810811,3,2,3,323,8,Potential Customers,359802,296904,3
+C0093,Dealer,Manufacturing,Chennai,Tamil Nadu,South,Chn001,30,41,63276812.2,1543336.8829268294,4,3,3,433,10,Loyal Customers,447924,287318,2
+C0419,Fleet Owner,Logistics,Mumbai,Maharashtra,West,Ahm001,92,34,63139736.8,1857051.0823529412,1,1,3,113,5,At Risk,344338,246613,1
+C0399,Fleet Owner,Rental,Chennai,Tamil Nadu,South,Chn001,6,42,62998360.6,1499960.9666666668,5,4,3,543,12,Loyal Customers,384480,12371,3
+C0410,Corporate,Mining,Hyderabad,Telangana,South,Hyd001,34,42,62834152.6,1496051.2523809525,3,4,3,343,10,Loyal Customers,320500,286790,4
+C0378,Retail,Manufacturing,Delhi,Delhi,North,Del001,16,42,62811212.6,1495505.061904762,4,4,3,443,11,Loyal Customers,45130,31976,4
+C0232,Government,Mining,Chennai,Tamil Nadu,South,Chn001,2,41,62766339.2,1530886.3219512196,5,4,3,543,12,Loyal Customers,1074153,787541,1
+C0146,Retail,Mining,Ahmedabad,Gujarat,West,Ahm001,0,33,62762832.8,1901904.0242424242,5,1,3,513,9,Potential Customers,21418,15972,3
+C0376,Retail,Construction,Delhi,Delhi,North,Del001,12,35,62674127.8,1790689.3657142855,5,2,3,523,10,Loyal Customers,37739,31805,5
+C0081,Corporate,Rental,Surat,Gujarat,West,Hyd001,8,40,62552790.6,1563819.7650000001,5,3,3,533,11,Loyal Customers,208371,44941,1
+C0004,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,Chn001,0,47,62484367.6,1329454.6297872341,5,5,3,553,13,Champions,506336,250255,3
+C0024,Dealer,Rental,Visakhapatnam,Andhra Pradesh,South,Chn001,105,48,62453301.2,1301110.4416666667,1,5,3,153,9,Potential Customers,266822,86814,4
+C0073,Corporate,Rental,Jaipur,Rajasthan,North,Chn001,49,36,62403573.6,1733432.6,3,2,3,323,8,Potential Customers,740385,319020,4
+C0327,Retail,Mining,Vadodara,Gujarat,West,Ahm001,25,45,62303773.6,1384528.3022222223,4,4,3,443,11,Loyal Customers,37994,22697,1
+C0450,Fleet Owner,Construction,Kolkata,West Bengal,East,Kol001,110,43,62233287.4,1447285.753488372,1,4,3,143,8,Potential Customers,139226,122462,5
+C0445,Government,Mining,Kolkata,West Bengal,East,Kol001,3,30,62230426.6,2074347.5533333335,5,1,3,513,9,Potential Customers,1283660,253336,2
+C0354,Corporate,Logistics,Hyderabad,Telangana,South,Hyd001,6,41,62107608.0,1514819.7073170731,5,4,3,543,12,Loyal Customers,261489,79839,2
+C0158,Corporate,Infrastructure,Kolkata,West Bengal,East,Kol001,96,37,62074622.2,1677692.491891892,1,2,3,123,6,At Risk,516521,146194,2
+C0321,Retail,Logistics,Hyderabad,Telangana,South,Hyd001,9,42,62032369.0,1476961.1666666667,5,4,3,543,12,Loyal Customers,33291,18767,2
+C0401,Government,Logistics,Guwahati,Assam,North East,Del001,67,38,61848709.2,1627597.6105263159,2,3,3,233,8,Potential Customers,1066548,57200,1
+C0367,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,Chn001,57,31,61649463.4,1988692.3677419354,2,1,3,213,6,At Risk,747445,501548,2
+C0188,Corporate,Logistics,Pune,Maharashtra,West,Pun001,4,45,61533771.8,1367417.151111111,5,4,3,543,12,Loyal Customers,261082,245715,4
+C0364,Government,Infrastructure,Kolkata,West Bengal,East,Kol001,43,38,61474010.8,1617737.1263157893,3,3,3,333,9,Potential Customers,615436,402232,5
+C0458,Dealer,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,3,43,61418386.0,1428334.558139535,5,4,3,543,12,Loyal Customers,162635,61520,4
+C0357,Corporate,Mining,Ahmedabad,Gujarat,West,Ahm001,44,32,61407267.4,1918977.10625,3,1,3,313,7,Potential Customers,573217,397222,2
+C0457,Retail,Manufacturing,Kolkata,West Bengal,East,Kol001,46,35,61313002.6,1751800.0742857144,3,2,3,323,8,Potential Customers,16374,15438,4
+C0222,Fleet Owner,Logistics,Delhi,Delhi,North,Del001,18,44,61184396.6,1390554.4681818183,4,4,3,443,11,Loyal Customers,501339,373637,5
+C0086,Retail,Construction,Ahmedabad,Gujarat,West,Ahm001,39,30,61140968.2,2038032.2733333334,3,1,3,313,7,Potential Customers,32547,1770,3
+C0481,Corporate,Logistics,Chennai,Tamil Nadu,South,Chn001,0,40,61067778.2,1526694.455,5,3,3,533,11,Loyal Customers,437015,243932,5
+C0059,Retail,Manufacturing,Hyderabad,Telangana,South,Hyd001,11,39,61020302.6,1564623.1435897436,5,3,3,533,11,Loyal Customers,37344,31278,3
+C0130,Government,Mining,Pune,Maharashtra,West,Pun001,45,41,60851805.0,1484190.3658536586,3,3,3,333,9,Potential Customers,1196003,228242,1
+C0409,Government,Logistics,Pune,Maharashtra,West,Pun001,83,45,60821412.6,1351586.9466666668,2,5,3,253,10,Loyal Customers,990136,859423,1
+C0426,Dealer,Infrastructure,Guwahati,Assam,North East,Kol001,28,40,60676762.6,1516919.065,4,3,3,433,10,Loyal Customers,332893,19372,1
+C0096,Corporate,Construction,Chennai,Tamil Nadu,South,Chn001,1,40,60656339.0,1516408.475,5,3,3,533,11,Loyal Customers,401903,200385,3
+C0106,Dealer,Infrastructure,Indore,Madhya Pradesh,Central,Pun001,49,42,60639108.8,1443788.3047619048,3,4,3,343,10,Loyal Customers,223855,212350,2
+C0427,Corporate,Mining,Vadodara,Gujarat,West,Hyd001,35,46,60390081.4,1312827.8565217392,3,5,3,353,11,Loyal Customers,334941,5247,3
+C0442,Dealer,Logistics,Kolkata,West Bengal,East,Kol001,72,36,60326225.8,1675728.4944444443,2,2,3,223,7,Potential Customers,440207,114258,3
+C0036,Fleet Owner,Construction,Kolkata,West Bengal,East,Kol001,8,39,60321548.8,1546706.3794871795,5,3,3,533,11,Loyal Customers,630421,352613,2
+C0397,Fleet Owner,Mining,Ahmedabad,Gujarat,West,Ahm001,14,41,60279612.2,1470234.4439024392,4,4,3,443,11,Loyal Customers,685521,640617,3
+C0027,Fleet Owner,Logistics,Surat,Gujarat,West,Ahm001,5,44,60238104.6,1369047.8318181818,5,4,3,543,12,Loyal Customers,119712,6429,1
+C0066,Retail,Manufacturing,Indore,Madhya Pradesh,Central,Hyd001,81,38,60235825.4,1585153.3,2,2,3,223,7,Potential Customers,37976,5882,1
+C0360,Dealer,Construction,Ahmedabad,Gujarat,West,Ahm001,44,34,60127880.8,1768467.0823529412,3,1,2,312,6,At Risk,433677,398778,5
+C0181,Government,Construction,Vadodara,Gujarat,West,Pun001,16,40,60094083.2,1502352.08,4,3,2,432,9,Potential Customers,766249,475114,5
+C0278,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,Ahm001,28,45,59961056.4,1332467.92,4,4,2,442,10,Loyal Customers,312177,50733,4
+C0051,Retail,Infrastructure,Jaipur,Rajasthan,North,Ahm001,46,37,59958994.4,1620513.362162162,3,2,2,322,7,Potential Customers,40307,777,4
+C0072,Government,Logistics,Pune,Maharashtra,West,Pun001,8,30,59941485.6,1998049.52,5,1,2,512,8,Potential Customers,1196826,1192089,3
+C0112,Fleet Owner,Mining,Hyderabad,Telangana,South,Hyd001,30,40,59897509.0,1497437.725,4,3,2,432,9,Potential Customers,389833,373500,2
+C0148,Government,Construction,Coimbatore,Tamil Nadu,South,Ahm001,22,40,59828023.0,1495700.575,4,3,2,432,9,Potential Customers,1202629,329492,4
+C0068,Retail,Mining,Delhi,Delhi,North,Del001,25,42,59659250.6,1420458.3476190476,4,4,2,442,10,Loyal Customers,27354,3730,1
+C0266,Fleet Owner,Rental,Bengaluru,Karnataka,South,Chn001,98,37,59493819.2,1607941.0594594595,1,2,2,122,5,At Risk,196336,54211,4
+C0245,Dealer,Logistics,Chennai,Tamil Nadu,South,Chn001,31,37,59459217.6,1607005.8810810812,4,2,2,422,8,Potential Customers,204820,16669,2
+C0017,Government,Infrastructure,Chennai,Tamil Nadu,South,Chn001,10,40,59455266.0,1486381.65,5,3,2,532,10,Loyal Customers,1155360,986611,1
+C0444,Dealer,Manufacturing,Chennai,Tamil Nadu,South,Chn001,147,35,59419781.4,1697708.04,1,2,2,122,5,At Risk,403967,96858,1
+C0164,Government,Construction,Delhi,Delhi,North,Del001,48,39,59364706.6,1522171.9641025641,3,3,2,332,8,Potential Customers,1454565,1435105,4
+C0111,Corporate,Construction,Chennai,Tamil Nadu,South,Chn001,15,39,59356912.0,1521972.1025641025,4,3,2,432,9,Potential Customers,332240,18012,3
+C0074,Fleet Owner,Infrastructure,Bhubaneswar,Odisha,East,Kol001,0,45,59288601.6,1317524.48,5,4,2,542,11,Loyal Customers,259356,11327,5
+C0296,Corporate,Manufacturing,Kolkata,West Bengal,East,Kol001,54,41,59283432.8,1445937.3853658536,2,4,2,242,8,Potential Customers,361733,33627,2
+C0195,Fleet Owner,Logistics,Kolkata,West Bengal,East,Kol001,3,33,59145431.2,1792285.793939394,5,1,2,512,8,Potential Customers,389773,149217,2
+C0018,Retail,Construction,Ahmedabad,Gujarat,West,Ahm001,7,36,59030468.4,1639735.2333333334,5,2,2,522,9,Potential Customers,49835,49052,2
+C0202,Government,Logistics,Chandigarh,Punjab,North,Ahm001,101,35,58935549.4,1683872.8399999999,1,2,2,122,5,At Risk,1402130,532821,4
+C0095,Fleet Owner,Logistics,Nagpur,Maharashtra,West,Ahm001,5,31,58809103.8,1897067.864516129,5,1,2,512,8,Potential Customers,207876,37163,3
+C0361,Government,Logistics,Hyderabad,Telangana,South,Hyd001,96,35,58802186.0,1680062.4571428571,1,2,2,122,5,At Risk,623046,455127,5
+C0370,Corporate,Infrastructure,Kolkata,West Bengal,East,Kol001,13,41,58581481.199999996,1428816.6146341462,5,4,2,542,11,Loyal Customers,375748,373898,4
+C0185,Dealer,Logistics,Pune,Maharashtra,West,Pun001,106,39,58416829.8,1497867.4307692307,1,3,2,132,6,At Risk,210864,117546,5
+C0224,Retail,Manufacturing,Kolkata,West Bengal,East,Kol001,17,40,58349595.8,1458739.895,4,3,2,432,9,Potential Customers,11280,3718,3
+C0472,Dealer,Manufacturing,Coimbatore,Tamil Nadu,South,Chn001,38,37,58343752.4,1576858.172972973,3,2,2,322,7,Potential Customers,475653,77024,4
+C0463,Dealer,Mining,Nagpur,Maharashtra,West,Ahm001,131,36,58325024.0,1620139.5555555555,1,2,2,122,5,At Risk,325255,17271,4
+C0330,Retail,Infrastructure,Bhubaneswar,Odisha,East,Kol001,143,41,58287142.6,1421637.624390244,1,4,2,142,7,Potential Customers,41835,63,3
+C0029,Dealer,Construction,Visakhapatnam,Andhra Pradesh,South,Kol001,184,38,58176890.6,1530970.805263158,1,2,2,122,5,At Risk,403949,343364,1
+C0480,Government,Infrastructure,Mumbai,Maharashtra,West,Ahm001,37,37,58091138.8,1570030.7783783784,3,2,2,322,7,Potential Customers,635943,336455,3
+C0147,Dealer,Rental,Delhi,Delhi,North,Del001,9,36,57961759.4,1610048.8722222222,5,2,2,522,9,Potential Customers,363902,291538,5
+C0477,Government,Construction,Ahmedabad,Gujarat,West,Ahm001,79,37,57871728.4,1564100.7675675675,2,2,2,222,6,At Risk,831717,641227,5
+C0033,Government,Mining,Chennai,Tamil Nadu,South,Chn001,19,34,57806787.2,1700199.6235294119,4,1,2,412,7,Potential Customers,655166,632856,5
+C0323,Government,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,9,40,57786002.2,1444650.0550000002,5,3,2,532,10,Loyal Customers,717071,189451,2
+C0393,Retail,Rental,Kolkata,West Bengal,East,Kol001,13,42,57683779.4,1373423.3190476191,5,4,2,542,11,Loyal Customers,41273,8717,3
+C0289,Corporate,Logistics,Hyderabad,Telangana,South,Hyd001,63,40,57538580.4,1438464.51,2,3,2,232,7,Potential Customers,600072,472573,2
+C0052,Government,Manufacturing,Guwahati,Assam,North East,Pun001,20,37,57455055.6,1552839.3405405406,4,2,2,422,8,Potential Customers,1297924,695848,2
+C0098,Corporate,Mining,Kolkata,West Bengal,East,Kol001,13,37,57357413.2,1550200.3567567568,5,2,2,522,9,Potential Customers,270655,236169,1
+C0159,Dealer,Construction,Chennai,Tamil Nadu,South,Chn001,5,36,57251892.6,1590330.35,5,2,2,522,9,Potential Customers,332595,67368,3
+C0137,Dealer,Infrastructure,Chennai,Tamil Nadu,South,Chn001,19,28,57221883.8,2043638.7071428571,4,1,2,412,7,Potential Customers,257346,114551,5
+C0404,Government,Mining,Ahmedabad,Gujarat,West,Ahm001,5,35,57215502.0,1634728.6285714286,5,2,2,522,9,Potential Customers,1177246,346690,5
+C0011,Retail,Infrastructure,Vadodara,Gujarat,West,Kol001,39,41,57187490.8,1394816.8487804877,3,3,2,332,8,Potential Customers,29130,4200,4
+C0285,Government,Infrastructure,Pune,Maharashtra,West,Pun001,26,51,57166086.6,1120903.6588235295,4,5,2,452,11,Loyal Customers,1359546,764093,4
+C0362,Corporate,Rental,Vadodara,Gujarat,West,Ahm001,81,42,57018296.0,1357578.4761904762,2,4,2,242,8,Potential Customers,814512,9547,1
+C0345,Retail,Infrastructure,Pune,Maharashtra,West,Pun001,41,44,56899456.6,1293169.4681818183,3,4,2,342,9,Potential Customers,31532,26687,2
+C0417,Fleet Owner,Mining,Kolkata,West Bengal,East,Kol001,111,36,56892210.6,1580339.1833333333,1,2,2,122,5,At Risk,587793,383902,3
+C0058,Retail,Infrastructure,Pune,Maharashtra,West,Pun001,7,41,56841153.8,1386369.6048780486,5,3,2,532,10,Loyal Customers,43362,11601,3
+C0325,Corporate,Rental,Kolkata,West Bengal,East,Kol001,52,33,56775486.800000004,1720469.296969697,3,1,2,312,6,At Risk,811959,363532,3
+C0022,Retail,Infrastructure,Chennai,Tamil Nadu,South,Chn001,55,39,56771100.0,1455669.2307692308,2,3,2,232,7,Potential Customers,47651,19003,3
+C0389,Retail,Mining,Surat,Gujarat,West,Ahm001,36,33,56596362.6,1715041.290909091,3,1,2,312,6,At Risk,34342,20256,5
+C0067,Retail,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,1,33,56503395.6,1712224.1090909091,5,1,2,512,8,Potential Customers,34526,17171,3
+C0405,Corporate,Infrastructure,Pune,Maharashtra,West,Pun001,189,37,56480507.0,1526500.189189189,1,2,2,122,5,At Risk,216557,212474,3
+C0265,Retail,Mining,Ahmedabad,Gujarat,West,Ahm001,95,33,56239915.0,1704239.8484848484,1,1,2,112,4,Inactive Customers,18495,6434,1
+C0090,Government,Infrastructure,Delhi,Delhi,North,Del001,70,45,56056558.6,1245701.3022222223,2,4,2,242,8,Potential Customers,1009986,294069,1
+C0044,Government,Mining,Mumbai,Maharashtra,West,Kol001,44,38,55873422.6,1470353.2263157896,3,2,2,322,7,Potential Customers,888707,663201,4
+C0423,Dealer,Infrastructure,Visakhapatnam,Andhra Pradesh,South,Del001,4,35,55793317.0,1594094.7714285713,5,2,2,522,9,Potential Customers,234222,160010,3
+C0239,Government,Logistics,Chennai,Tamil Nadu,South,Chn001,65,38,55722404.6,1466379.0684210528,2,3,2,232,7,Potential Customers,1361502,566279,4
+C0218,Fleet Owner,Construction,Nagpur,Maharashtra,West,Pun001,76,45,55544090.8,1234313.1288888888,2,4,2,242,8,Potential Customers,635931,456436,5
+C0127,Government,Construction,Kolkata,West Bengal,East,Kol001,189,31,55495542.0,1790178.7741935484,1,1,2,112,4,Inactive Customers,1030275,912169,1
+C0348,Retail,Logistics,Delhi,Delhi,North,Del001,68,35,55466523.4,1584757.8114285714,2,2,2,222,6,At Risk,32723,11641,2
+C0075,Retail,Mining,Hyderabad,Telangana,South,Hyd001,72,35,55423341.4,1583524.04,2,1,2,212,5,At Risk,27094,12134,5
+C0014,Fleet Owner,Construction,Kolkata,West Bengal,East,Kol001,10,31,55301444.6,1783917.5677419356,5,1,2,512,8,Potential Customers,611397,522294,2
+C0446,Retail,Logistics,Visakhapatnam,Andhra Pradesh,South,Hyd001,76,36,55273239.8,1535367.772222222,2,2,2,222,6,At Risk,25401,2338,1
+C0040,Government,Logistics,Delhi,Delhi,North,Del001,10,45,55264046.6,1228089.9244444445,5,4,2,542,11,Loyal Customers,842290,805196,2
+C0203,Government,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,42,37,55254922.2,1493376.2756756758,3,2,2,322,7,Potential Customers,1101577,142383,1
+C0324,Corporate,Mining,Chennai,Tamil Nadu,South,Chn001,129,38,55237914.6,1453629.3315789474,1,3,2,132,6,At Risk,384819,150633,5
+C0287,Dealer,Manufacturing,Chennai,Tamil Nadu,South,Chn001,34,36,55179366.6,1532760.1833333333,3,2,2,322,7,Potential Customers,208477,196469,4
+C0432,Fleet Owner,Mining,Hyderabad,Telangana,South,Hyd001,88,41,55153813.4,1345214.9609756097,1,4,2,142,7,Potential Customers,378549,339143,3
+C0114,Retail,Mining,Kolkata,West Bengal,East,Kol001,95,36,55114526.0,1530959.0555555555,1,2,2,122,5,At Risk,42285,6186,4
+C0387,Dealer,Infrastructure,Kolkata,West Bengal,East,Kol001,66,38,55063811.6,1449047.6736842105,2,3,2,232,7,Potential Customers,111501,60386,4
+C0223,Corporate,Logistics,Ahmedabad,Gujarat,West,Ahm001,77,34,54993118.6,1617444.6647058823,2,1,2,212,5,At Risk,681810,584759,1
+C0338,Corporate,Rental,Ahmedabad,Gujarat,West,Ahm001,38,38,54984288.4,1446954.957894737,3,3,2,332,8,Potential Customers,849500,770295,4
+C0097,Corporate,Construction,Pune,Maharashtra,West,Pun001,15,30,54923549.4,1830784.98,4,1,2,412,7,Potential Customers,351063,253,5
+C0019,Government,Logistics,Kolkata,West Bengal,East,Kol001,21,43,54871093.4,1276071.9395348837,4,4,2,442,10,Loyal Customers,678408,196058,5
+C0220,Government,Infrastructure,Indore,Madhya Pradesh,Central,Kol001,55,47,54813895.4,1166253.0936170213,2,5,2,252,9,Potential Customers,1116238,93524,2
+C0434,Corporate,Mining,Indore,Madhya Pradesh,Central,Kol001,66,35,54780833.4,1565166.6685714286,2,2,2,222,6,At Risk,437713,377663,4
+C0346,Retail,Construction,Patna,Bihar,East,Hyd001,46,39,54686860.8,1402227.2,3,3,2,332,8,Potential Customers,30962,26154,3
+C0012,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,Chn001,82,38,54659532.0,1438408.7368421052,2,2,2,222,6,At Risk,785687,30771,1
+C0210,Retail,Infrastructure,Pune,Maharashtra,West,Pun001,3,32,54645456.0,1707670.5,5,1,2,512,8,Potential Customers,11789,1490,2
+C0133,Government,Mining,Visakhapatnam,Andhra Pradesh,South,Ahm001,268,31,54603955.0,1761417.9032258065,1,1,2,112,4,Inactive Customers,1144779,737832,1
+C0320,Retail,Construction,Delhi,Delhi,North,Del001,1,35,54602363.0,1560067.5142857144,5,2,2,522,9,Potential Customers,16859,8363,1
+C0118,Retail,Rental,Chennai,Tamil Nadu,South,Chn001,1,39,54581290.4,1399520.2666666666,5,3,2,532,10,Loyal Customers,40651,8239,4
+C0298,Fleet Owner,Construction,Chennai,Tamil Nadu,South,Chn001,41,37,54524918.8,1473646.4540540539,3,2,2,322,7,Potential Customers,229813,62180,4
+C0470,Government,Mining,Chennai,Tamil Nadu,South,Chn001,95,44,54364363.0,1235553.7045454546,1,4,2,142,7,Potential Customers,1219925,949663,1
+C0391,Government,Construction,Ahmedabad,Gujarat,West,Ahm001,31,35,54227537.6,1549358.2171428571,4,2,2,422,8,Potential Customers,624393,239160,3
+C0233,Government,Logistics,Kolkata,West Bengal,East,Kol001,71,34,54215650.4,1594577.9529411765,2,1,2,212,5,At Risk,1146772,306186,3
+C0497,Government,Logistics,Chennai,Tamil Nadu,South,Chn001,21,33,54198333.6,1642373.7454545456,4,1,2,412,7,Potential Customers,764082,310133,3
+C0214,Corporate,Rental,Pune,Maharashtra,West,Pun001,5,35,54155736.6,1547306.76,5,2,2,522,9,Potential Customers,583212,447435,4
+C0368,Fleet Owner,Construction,Chennai,Tamil Nadu,South,Chn001,31,33,54132389.8,1640375.4484848485,4,1,2,412,7,Potential Customers,234723,90488,1
+C0144,Fleet Owner,Construction,Mumbai,Maharashtra,West,Ahm001,109,31,54049087.6,1743518.9548387097,1,1,2,112,4,Inactive Customers,578368,178549,2
+C0465,Fleet Owner,Mining,Chennai,Tamil Nadu,South,Chn001,19,39,54021591.4,1385169.01025641,4,3,2,432,9,Potential Customers,573243,248521,1
+C0416,Dealer,Manufacturing,Chennai,Tamil Nadu,South,Chn001,72,43,53927329.4,1254123.9395348837,2,4,2,242,8,Potential Customers,498960,179763,2
+C0122,Dealer,Rental,Guwahati,Assam,North East,Kol001,56,33,53915180.0,1633793.3333333333,2,1,2,212,5,At Risk,351917,4859,2
+C0299,Retail,Logistics,Bengaluru,Karnataka,South,Chn001,123,37,53895506.2,1456635.3027027028,1,2,2,122,5,At Risk,36717,4107,1
+C0400,Government,Infrastructure,Delhi,Delhi,North,Del001,69,38,53789410.800000004,1415510.8105263158,2,3,2,232,7,Potential Customers,1018688,799757,5
+C0386,Retail,Construction,Delhi,Delhi,North,Del001,57,38,53754976.6,1414604.647368421,2,3,2,232,7,Potential Customers,31717,8568,4
+C0474,Government,Logistics,Pune,Maharashtra,West,Pun001,54,35,53742284.8,1535493.8514285714,2,2,2,222,6,At Risk,697497,64747,3
+C0308,Retail,Mining,Delhi,Delhi,North,Del001,19,36,53708429.6,1491900.8222222223,4,2,2,422,8,Potential Customers,23387,13502,3
+C0388,Fleet Owner,Infrastructure,Pune,Maharashtra,West,Pun001,19,34,53499029.0,1573500.8529411764,4,1,2,412,7,Potential Customers,780698,677920,5
+C0484,Fleet Owner,Mining,Ahmedabad,Gujarat,West,Ahm001,51,31,53367824.4,1721542.722580645,3,1,2,312,6,At Risk,773172,383774,1
+C0352,Corporate,Mining,Bengaluru,Karnataka,South,Kol001,50,37,53320209.4,1441086.7405405405,3,2,2,322,7,Potential Customers,729658,322307,1
+C0372,Government,Logistics,Hyderabad,Telangana,South,Hyd001,174,37,53251324.8,1439224.9945945945,1,2,1,121,4,Inactive Customers,778200,681891,4
+C0199,Government,Mining,Ahmedabad,Gujarat,West,Ahm001,71,38,53138757.0,1398388.3421052631,2,3,1,231,6,At Risk,666213,506832,3
+C0313,Corporate,Mining,Ahmedabad,Gujarat,West,Ahm001,120,32,53136931.2,1660529.1,1,1,1,111,3,Inactive Customers,821603,658403,1
+C0167,Retail,Mining,Vadodara,Gujarat,West,Hyd001,3,35,52892007.0,1511200.2,5,2,1,521,8,Potential Customers,34602,32450,4
+C0441,Dealer,Construction,Lucknow,Uttar Pradesh,North,Pun001,73,35,52770182.0,1507719.4857142856,2,2,1,221,5,At Risk,261833,189019,2
+C0305,Fleet Owner,Logistics,Delhi,Delhi,North,Del001,34,33,52766904.800000004,1598997.1151515152,3,1,1,311,5,At Risk,702965,105968,3
+C0332,Corporate,Mining,Bengaluru,Karnataka,South,Hyd001,38,39,52716408.8,1351702.7897435897,3,3,1,331,7,Potential Customers,545215,438695,1
+C0057,Retail,Logistics,Kolkata,West Bengal,East,Kol001,27,35,52687167.2,1505347.6342857145,4,1,1,411,6,At Risk,23289,4934,3
+C0087,Government,Logistics,Hyderabad,Telangana,South,Hyd001,14,41,52685252.8,1285006.1658536585,4,3,1,431,8,Potential Customers,831098,749605,3
+C0281,Government,Logistics,Visakhapatnam,Andhra Pradesh,South,Kol001,189,31,52632947.4,1697837.0129032258,1,1,1,111,3,Inactive Customers,1088567,176124,4
+C0136,Dealer,Mining,Ahmedabad,Gujarat,West,Ahm001,48,42,52373189.0,1246980.6904761905,3,4,1,341,8,Potential Customers,425042,208808,3
+C0451,Government,Manufacturing,Ranchi,Jharkhand,East,Kol001,178,42,52353064.4,1246501.5333333332,1,4,1,141,6,At Risk,1083798,936832,3
+C0120,Fleet Owner,Construction,Bengaluru,Karnataka,South,Hyd001,46,36,52335040.0,1453751.111111111,3,2,1,321,6,At Risk,416429,90596,5
+C0317,Corporate,Manufacturing,Coimbatore,Tamil Nadu,South,Hyd001,6,38,52093578.6,1370883.647368421,5,3,1,531,9,Potential Customers,228417,52279,3
+C0339,Fleet Owner,Logistics,Chennai,Tamil Nadu,South,Chn001,137,27,52031024.0,1927074.962962963,1,1,1,111,3,Inactive Customers,121781,76116,2
+C0208,Fleet Owner,Logistics,Jaipur,Rajasthan,North,Kol001,1,34,51714962.2,1521028.3,5,1,1,511,7,Potential Customers,737567,537907,4
+C0473,Government,Rental,Chennai,Tamil Nadu,South,Chn001,46,31,51561279.0,1663267.064516129,3,1,1,311,5,At Risk,1339337,1213028,3
+C0163,Dealer,Logistics,Ahmedabad,Gujarat,West,Ahm001,148,40,51460399.4,1286509.9849999999,1,3,1,131,5,At Risk,492794,476585,5
+C0048,Dealer,Mining,Hyderabad,Telangana,South,Hyd001,86,34,51356098.4,1510473.482352941,2,1,1,211,4,Inactive Customers,424609,267683,3
+C0316,Dealer,Manufacturing,Kolkata,West Bengal,East,Kol001,100,38,51245092.4,1348555.0631578946,1,3,1,131,5,At Risk,254996,128290,4
+C0402,Fleet Owner,Rental,Hyderabad,Telangana,South,Hyd001,172,39,51082966.6,1309819.6564102564,1,3,1,131,5,At Risk,599112,461073,1
+C0089,Corporate,Rental,Surat,Gujarat,West,Ahm001,47,40,51004563.0,1275114.075,3,3,1,331,7,Potential Customers,930006,400599,4
+C0100,Government,Construction,Chandigarh,Punjab,North,Kol001,51,42,50958417.2,1213295.6476190477,3,4,1,341,8,Potential Customers,504876,56494,3
+C0003,Government,Logistics,Surat,Gujarat,West,Del001,62,40,50921823.2,1273045.58,2,3,1,231,6,At Risk,1306933,733495,2
+C0132,Corporate,Construction,Indore,Madhya Pradesh,Central,Pun001,91,39,50864051.6,1304206.4512820514,1,3,1,131,5,At Risk,604969,495963,2
+C0452,Fleet Owner,Mining,Hyderabad,Telangana,South,Hyd001,4,42,50797162.6,1209456.2523809525,5,4,1,541,10,Loyal Customers,362507,335242,1
+C0252,Retail,Construction,Chennai,Tamil Nadu,South,Chn001,54,38,50788059.0,1336527.8684210526,2,3,1,231,6,At Risk,19663,14945,2
+C0243,Government,Construction,Delhi,Delhi,North,Del001,21,34,50637406.0,1489335.4705882352,4,1,1,411,6,At Risk,1271592,1157997,3
+C0382,Retail,Manufacturing,Hyderabad,Telangana,South,Hyd001,42,37,50583035.6,1367109.0702702703,3,2,1,321,6,At Risk,41306,34329,3
+C0094,Corporate,Logistics,Pune,Maharashtra,West,Pun001,102,33,50263933.0,1523149.4848484849,1,1,1,111,3,Inactive Customers,206889,166058,4
+C0043,Corporate,Construction,Chennai,Tamil Nadu,South,Chn001,200,37,50240542.800000004,1357852.5081081083,1,2,1,121,4,Inactive Customers,387054,12548,4
+C0431,Government,Logistics,Nagpur,Maharashtra,West,Pun001,179,31,50133961.8,1617224.5741935482,1,1,1,111,3,Inactive Customers,1284393,789154,5
+C0194,Fleet Owner,Construction,Visakhapatnam,Andhra Pradesh,South,Chn001,5,36,50090927.4,1391414.65,5,2,1,521,8,Potential Customers,380469,167449,1
+C0344,Fleet Owner,Mining,Mumbai,Maharashtra,West,Chn001,197,30,50089886.6,1669662.8866666667,1,1,1,111,3,Inactive Customers,508890,439948,2
+C0418,Government,Mining,Pune,Maharashtra,West,Pun001,47,32,49957660.0,1561176.875,3,1,1,311,5,At Risk,1185942,749861,4
+C0226,Dealer,Logistics,Ahmedabad,Gujarat,West,Ahm001,94,28,49907828.2,1782422.4357142858,1,1,1,111,3,Inactive Customers,400547,150512,5
+C0143,Corporate,Infrastructure,Chennai,Tamil Nadu,South,Chn001,151,29,49888789.6,1720303.0896551725,1,1,1,111,3,Inactive Customers,915191,549312,3
+C0121,Government,Construction,Pune,Maharashtra,West,Pun001,30,36,49865297.8,1385147.161111111,4,2,1,421,7,Potential Customers,690836,432165,2
+C0350,Dealer,Logistics,Guwahati,Assam,North East,Ahm001,36,37,49779071.0,1345380.2972972973,3,2,1,321,6,At Risk,386127,5509,2
+C0187,Retail,Rental,Jaipur,Rajasthan,North,Chn001,53,31,49675352.0,1602430.7096774194,2,1,1,211,4,Inactive Customers,42105,40074,1
+C0092,Fleet Owner,Logistics,Ahmedabad,Gujarat,West,Ahm001,154,41,49508865.6,1207533.3073170732,1,3,1,131,5,At Risk,532908,244201,2
+C0267,Fleet Owner,Infrastructure,Hyderabad,Telangana,South,Hyd001,281,33,49252642.4,1492504.3151515152,1,1,1,111,3,Inactive Customers,253236,64982,3
+C0412,Corporate,Infrastructure,Kolkata,West Bengal,East,Kol001,217,37,49251584.6,1331123.9081081082,1,2,1,121,4,Inactive Customers,699539,571001,3
+C0037,Corporate,Construction,Pune,Maharashtra,West,Pun001,67,38,49170554.6,1293961.9631578948,2,2,1,221,5,At Risk,330103,123365,1
+C0008,Corporate,Logistics,Mumbai,Maharashtra,West,Hyd001,168,36,49133801.0,1364827.8055555555,1,2,1,121,4,Inactive Customers,941092,934117,1
+C0125,Government,Mining,Surat,Gujarat,West,Hyd001,22,36,49053869.4,1362607.4833333334,4,2,1,421,7,Potential Customers,557944,302970,4
+C0437,Dealer,Mining,Nagpur,Maharashtra,West,Hyd001,10,32,49034632.4,1532332.2625,5,1,1,511,7,Potential Customers,235226,34472,3
+C0020,Dealer,Logistics,Kolkata,West Bengal,East,Kol001,75,41,48976856.0,1194557.463414634,2,3,1,231,6,At Risk,492285,202707,3
+C0212,Retail,Infrastructure,Guwahati,Assam,North East,Pun001,46,35,48934838.0,1398138.2285714287,3,2,1,321,6,At Risk,24433,23440,4
+C0115,Fleet Owner,Mining,Visakhapatnam,Andhra Pradesh,South,Kol001,33,33,48843581.0,1480108.5151515151,3,1,1,311,5,At Risk,666395,628219,5
+C0262,Corporate,Logistics,Delhi,Delhi,North,Del001,27,30,48644883.2,1621496.1066666667,4,1,1,411,6,At Risk,476523,424625,4
+C0139,Government,Mining,Ahmedabad,Gujarat,West,Ahm001,51,36,48432694.2,1345352.6166666667,3,2,1,321,6,At Risk,825908,770729,2
+C0053,Fleet Owner,Construction,Delhi,Delhi,North,Del001,104,31,48380645.8,1560665.993548387,1,1,1,111,3,Inactive Customers,406292,44107,5
+C0170,Government,Construction,Bengaluru,Karnataka,South,Hyd001,11,32,48302583.4,1509455.73125,5,1,1,511,7,Potential Customers,1285103,765704,4
+C0494,Corporate,Construction,Ranchi,Jharkhand,East,Chn001,33,32,48287535.6,1508985.4875,3,1,1,311,5,At Risk,704926,188070,2
+C0007,Corporate,Manufacturing,Pune,Maharashtra,West,Pun001,58,36,48267553.2,1340765.3666666667,2,2,1,221,5,At Risk,859003,565081,4
+C0351,Corporate,Rental,Bhubaneswar,Odisha,East,Chn001,110,38,48026434.2,1263853.5315789476,1,3,1,131,5,At Risk,483031,235148,1
+C0430,Retail,Manufacturing,Nagpur,Maharashtra,West,Kol001,81,29,47869210.4,1650662.427586207,2,1,1,211,4,Inactive Customers,10552,5942,5
+C0079,Retail,Rental,Delhi,Delhi,North,Del001,33,33,47715030.2,1445910.006060606,3,1,1,311,5,At Risk,28890,10702,5
+C0392,Fleet Owner,Logistics,Kolkata,West Bengal,East,Kol001,19,34,47369152.4,1393210.3647058823,4,1,1,411,6,At Risk,465583,265735,2
+C0366,Corporate,Logistics,Kolkata,West Bengal,East,Kol001,66,30,46920707.6,1564023.5866666667,2,1,1,211,4,Inactive Customers,429866,27962,4
+C0454,Government,Mining,Pune,Maharashtra,West,Pun001,47,37,46799854.199999996,1264860.9243243241,3,2,1,321,6,At Risk,797861,13824,3
+C0500,Corporate,Infrastructure,Kolkata,West Bengal,East,Kol001,24,29,46749033.2,1612035.627586207,4,1,1,411,6,At Risk,483892,363569,3
+C0487,Dealer,Mining,Visakhapatnam,Andhra Pradesh,South,Del001,288,31,46208581.6,1490599.406451613,1,1,1,111,3,Inactive Customers,346606,25749,1
+C0229,Government,Mining,Patna,Bihar,East,Hyd001,32,29,46111656.0,1590057.103448276,3,1,1,311,5,At Risk,543686,47129,3
+C0283,Retail,Logistics,Jaipur,Rajasthan,North,Chn001,118,33,46063181.6,1395853.987878788,1,1,1,111,3,Inactive Customers,11744,10481,1
+C0336,Government,Rental,Kolkata,West Bengal,East,Kol001,66,39,45959667.0,1178453.0,2,3,1,231,6,At Risk,1317175,577628,5
+C0117,Government,Mining,Guwahati,Assam,North East,Ahm001,84,35,45754267.0,1307264.7714285713,2,2,1,221,5,At Risk,856033,284259,3
+C0277,Dealer,Logistics,Surat,Gujarat,West,Pun001,108,38,45731394.2,1203457.7421052633,1,3,1,131,5,At Risk,430878,302093,1
+C0182,Dealer,Infrastructure,Kolkata,West Bengal,East,Kol001,150,32,45656632.6,1426769.76875,1,1,1,111,3,Inactive Customers,298476,237412,5
+C0155,Fleet Owner,Mining,Kolkata,West Bengal,East,Kol001,14,36,45589948.4,1266387.4555555554,4,2,1,421,7,Potential Customers,393453,245382,5
+C0151,Government,Infrastructure,Kolkata,West Bengal,East,Kol001,33,31,45382271.4,1463944.2387096775,3,1,1,311,5,At Risk,1163117,166210,5
+C0248,Fleet Owner,Rental,Pune,Maharashtra,West,Pun001,27,30,45208412.0,1506947.0666666667,4,1,1,411,6,At Risk,635210,15754,5
+C0150,Fleet Owner,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,52,34,45150214.2,1327947.4764705882,3,1,1,311,5,At Risk,197605,127111,5
+C0179,Government,Infrastructure,Chennai,Tamil Nadu,South,Chn001,163,35,44818951.8,1280541.48,1,2,1,121,4,Inactive Customers,630635,213290,3
+C0104,Fleet Owner,Infrastructure,Visakhapatnam,Andhra Pradesh,South,Kol001,1,36,44705340.8,1241815.022222222,5,2,1,521,8,Potential Customers,318210,213321,1
+C0078,Dealer,Rental,Visakhapatnam,Andhra Pradesh,South,Hyd001,84,33,44016970.2,1333847.581818182,2,1,1,211,4,Inactive Customers,166204,71681,1
+C0334,Corporate,Mining,Chennai,Tamil Nadu,South,Chn001,129,37,43977096.800000004,1188570.1837837838,1,2,1,121,4,Inactive Customers,681229,142562,5
+C0271,Corporate,Infrastructure,Hyderabad,Telangana,South,Hyd001,35,28,43599972.6,1557141.8785714286,3,1,1,311,5,At Risk,399363,217846,5
+C0204,Retail,Rental,Coimbatore,Tamil Nadu,South,Hyd001,23,33,43385471.0,1314711.2424242424,4,1,1,411,6,At Risk,20298,7042,2
+C0034,Government,Construction,Pune,Maharashtra,West,Pun001,86,33,42944978.2,1301362.9757575758,2,1,1,211,4,Inactive Customers,1033298,786303,5
+C0108,Corporate,Rental,Jaipur,Rajasthan,North,Ahm001,2,26,42738496.6,1643788.3307692308,5,1,1,511,7,Potential Customers,676059,420507,4
+C0028,Retail,Infrastructure,Bengaluru,Karnataka,South,Pun001,48,34,42570807.4,1252082.5705882353,3,1,1,311,5,At Risk,45173,40670,3
+C0091,Retail,Construction,Coimbatore,Tamil Nadu,South,Pun001,115,32,42545525.4,1329547.66875,1,1,1,111,3,Inactive Customers,48920,2123,2
+C0322,Government,Construction,Ahmedabad,Gujarat,West,Ahm001,21,29,41492290.0,1430768.6206896552,4,1,1,411,6,At Risk,975830,17767,2
+C0183,Government,Mining,Ahmedabad,Gujarat,West,Ahm001,26,32,41359486.8,1292483.9625,4,1,1,411,6,At Risk,1225772,731224,4
+C0177,Dealer,Construction,Pune,Maharashtra,West,Pun001,6,30,40099837.2,1336661.24,5,1,1,511,7,Potential Customers,100097,9054,1
+C0479,Retail,Construction,Mumbai,Maharashtra,West,Kol001,84,29,39881485.2,1375223.627586207,2,1,1,211,4,Inactive Customers,41285,5051,1
+C0061,Dealer,Construction,Surat,Gujarat,West,Hyd001,114,32,39850503.8,1245328.24375,1,1,1,111,3,Inactive Customers,362037,167542,4
+C0238,Corporate,Construction,Chennai,Tamil Nadu,South,Chn001,121,32,39369812.4,1230306.6375,1,1,1,111,3,Inactive Customers,299342,40569,5
+C0292,Corporate,Rental,Indore,Madhya Pradesh,Central,Ahm001,103,31,39031937.8,1259094.7677419353,1,1,1,111,3,Inactive Customers,627266,572987,2
+C0303,Corporate,Mining,Ahmedabad,Gujarat,West,Ahm001,30,31,38889030.8,1254484.864516129,4,1,1,411,6,At Risk,323564,38655,3
+C0279,Dealer,Rental,Nagpur,Maharashtra,West,Chn001,49,28,38851894.0,1387567.642857143,3,1,1,311,5,At Risk,105022,100986,4
+C0309,Government,Manufacturing,Ahmedabad,Gujarat,West,Ahm001,14,32,38759244.8,1211226.4,4,1,1,411,6,At Risk,618080,43088,4
+C0145,Retail,Construction,Pune,Maharashtra,West,Pun001,2,37,37852475.0,1023039.8648648649,5,2,1,521,8,Potential Customers,49522,23237,3
+C0174,Government,Mining,Ahmedabad,Gujarat,West,Ahm001,10,34,37034465.8,1089248.994117647,5,1,1,511,7,Potential Customers,1316961,123349,2
+C0353,Dealer,Manufacturing,Delhi,Delhi,North,Del001,84,30,35859534.8,1195317.8266666667,2,1,1,211,4,Inactive Customers,275021,20542,1
+C0456,Corporate,Mining,Delhi,Delhi,North,Del001,76,29,34272135.8,1181797.7862068964,2,1,1,211,4,Inactive Customers,265102,71426,4
+C0180,Fleet Owner,Logistics,Hyderabad,Telangana,South,Hyd001,21,31,33556847.4,1082478.9483870966,4,1,1,411,6,At Risk,747590,313557,3
+C0347,Retail,Mining,Delhi,Delhi,North,Del001,28,27,29076137.0,1076893.962962963,4,1,1,411,6,At Risk,33854,16481,4
