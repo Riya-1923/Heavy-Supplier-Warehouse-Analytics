@@ -213,7 +213,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Advanced_Inventory_Report.md
 │   ├── Supplier_Procurement_Report.md
 │   ├── Predictive_Customer_Analytics_Report.md
-│   └── BI_KPI_Dashboard_Report.md
+│   ├── BI_KPI_Dashboard_Report.md
+│   └── Final_Project_Report.md
 │
 ├── sprint-notes/
 │   ├── Week1.md
@@ -225,7 +226,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week7.md
 │   ├── Week8.md
 │   ├── Week9.md
-│   └── Week10.md
+│   ├── Week10.md
+│   └── Week11.md
 │
 └── README.md
 ```
