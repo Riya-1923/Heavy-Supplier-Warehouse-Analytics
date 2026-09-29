@@ -130,20 +130,53 @@ The objective is to analyze warehouse, inventory, supplier, customer, and sales 
 - Customer risk visualization
 - Business insights and recommendations
 
+### ✅ Week 10 – BI & KPI Integration Dashboard
+
+* Integrated key findings from Weeks 1–9 into one Power BI dashboard
+* Combined Inventory, Warehouse, Supplier, Procurement, and Customer analytics
+* Integrated customer RFM and predictive customer analytics
+* Added KPI cards for overall business performance
+* Added interactive slicers for:
+
+  * Region
+  * Branch
+  * Product Category
+  * Supplier
+  * Customer Type
+  * Customer Segment
+  * Customer Risk Level
+  * Year
+* Added business performance charts
+* Added inventory and warehouse analysis visuals
+* Added supplier and procurement analysis visuals
+* Added customer segmentation and customer risk visuals
+* Added estimated Customer Lifetime Value (CLV) analysis
+* Added high-value customer risk analysis
+* Added key business insights section
+* Added detailed customer and supplier analysis tables
+* Created a consolidated BI dashboard for overall project analysis
+* Prepared final project documentation and GitHub repository
+
 ## Dataset
 
 The project consists of 12 CSV datasets:
 
 - branches.csv
+- customer_analystics.csv
+- customer_branch_analysis.csv
+- customer_channel_analysis.csv
+- customer_clv_analysis.csv
+- customer_risk_final.csv
+- customer_segment_summary.csv
 - customers.csv
-- inventory_master.csv
+- inventory.csv
 - invoices.csv
 - payments.csv
 - products.csv
-- purchase_orders_header.csv
-- purchase_orders_lines.csv
-- sales_orders_header.csv
-- sales_orders_lines.csv
+- purchase_header.csv
+- purchase_lines.csv
+- sales_header.csv
+- sales_lines.csv
 - stock_ledger.csv
 - suppliers.csv
 
@@ -166,6 +199,10 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week8_Customer_Analytics.ipynb
 │   └── Week9_Predictive_Customer_Analytics.ipynb
 │
+├── Power Bi/ 
+│   ├──dashboard.pdf
+│   └── Week10_BI_KPI_Integration_Dashboard.pbix
+│
 ├── docs/
 │   ├── Data_Dictionary.md
 │   ├── Data_Quality_Report.md
@@ -175,7 +212,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Inventory_Health_Report.md
 │   ├── Advanced_Inventory_Report.md
 │   ├── Supplier_Procurement_Report.md
-│   └── Predictive_Customer_Analytics_Report.md
+│   ├── Predictive_Customer_Analytics_Report.md
+│   └── BI_KPI_Dashboard_Report.md
 │
 ├── sprint-notes/
 │   ├── Week1.md
@@ -186,7 +224,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week6.md
 │   ├── Week7.md
 │   ├── Week8.md
-│   └── Week9.md
+│   ├── Week9.md
+│   └── Week10.md
 │
 └── README.md
 ```
