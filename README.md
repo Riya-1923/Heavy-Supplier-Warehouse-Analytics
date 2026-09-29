@@ -110,6 +110,26 @@ The objective is to analyze warehouse, inventory, supplier, customer, and sales 
 - Customer KPI dashboard
 - Business insights and recommendations
 
+### ✅ Week 9 – Predictive Customer Analytics
+
+- Customer revenue analysis
+- Customer purchase frequency analysis
+- Customer lifespan analysis
+- Customer Lifetime Value (CLV) estimation
+- CLV-based customer segmentation
+- Customer churn indicator analysis
+- Customer risk scoring
+- Customer risk segmentation
+- High-value customer risk analysis
+- Retention opportunity analysis
+- Industry-level customer risk analysis
+- Regional customer risk analysis
+- Branch-level customer risk analysis
+- Predictive customer KPI dashboard
+- Customer value visualization
+- Customer risk visualization
+- Business insights and recommendations
+
 ## Dataset
 
 The project consists of 12 CSV datasets:
@@ -143,7 +163,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week5_Inventory_Health_Analytics.ipynb
 │   ├── Week6_Advanced_Inventory_Analytics.ipynb
 │   ├── Week7_Supplier_Procurement_Analytics.ipynb
-│   └── Week8_Customer_Analytics.ipynb
+│   ├── Week8_Customer_Analytics.ipynb
+│   └── Week9_Predictive_Customer_Analytics.ipynb
 │
 ├── docs/
 │   ├── Data_Dictionary.md
@@ -154,7 +175,7 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Inventory_Health_Report.md
 │   ├── Advanced_Inventory_Report.md
 │   ├── Supplier_Procurement_Report.md
-│   └── Customer_Analytics_Report.md
+│   └── Predictive_Customer_Analytics_Report.md
 │
 ├── sprint-notes/
 │   ├── Week1.md
@@ -164,7 +185,8 @@ Heavy-Supplier-Warehouse-Analytics/
 │   ├── Week5.md
 │   ├── Week6.md
 │   ├── Week7.md
-│   └── Week8.md
+│   ├── Week8.md
+│   └── Week9.md
 │
 └── README.md
 ```
